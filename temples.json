@@ -1,1 +1,3707 @@
-{"crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}}, "type": "FeatureCollection", "features": [{"geometry": {"type": "Point", "coordinates": [7.3566666666666665, 5.147500000000001]}, "type": "Feature", "properties": {"City": "Aba", "Country": "Nigeria", "Postal Code": "", "Longitude": "7\u00b021'24\"E", "Phone": "(234) 803-903-4804", "State": "Abia State", "Address": "Okpu-Umuoba Road Off Aba-Owerri Road at Union Bank", "Latitude": "5\u00b08'51\"N", "Temple": "Aba Nigeria Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [0.1936111111111111, 5.567222222222222]}, "type": "Feature", "properties": {"City": "Accra", "Country": "Ghana", "Postal Code": "", "Longitude": "-0\u00b011'37\"E", "Phone": "(233) 302-650-113", "State": "", "Address": "57 Independence Avenue North Ridge PMB CT 209 Cantonments", "Latitude": "5\u00b034'2\"N", "Temple": "Accra Ghana Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [138.635, -34.89222222222222]}, "type": "Feature", "properties": {"City": "Marden", "Country": "Australia", "Postal Code": "5070", "Longitude": "138\u00b038'6\"E", "Phone": "(61) 8-8363-8000", "State": "South Australia", "Address": "53-59 Lower Portrush Road", "Latitude": "34\u00b053'32\"S", "Temple": "Adelaide Australia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-106.52527777777777, 35.1675]}, "type": "Feature", "properties": {"City": "Albuquerque", "Country": "United States", "Postal Code": "87122-3437", "Longitude": "106\u00b031'31\"W", "Phone": "505-822-5110", "State": "New Mexico", "Address": "10301 San Francisco Drive NE", "Latitude": "35\u00b010'3\"N", "Temple": "Albuquerque New Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-149.8402777777778, 61.10138888888889]}, "type": "Feature", "properties": {"City": "Anchorage", "Country": "United States", "Postal Code": "99516", "Longitude": "149\u00b050'25\"W", "Phone": "907-348-7890", "State": "Alaska", "Address": "13161 Brayton Drive", "Latitude": "61\u00b06'5\"N", "Temple": "Anchorage Alaska Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-171.7827777777778, -13.838055555555556]}, "type": "Feature", "properties": {"City": "Pesega", "Country": "Samoa", "Postal Code": "", "Longitude": "171\u00b046'58\"W", "Phone": "(685) 64-230", "State": "Apia", "Address": "Vaitele Street", "Latitude": "13\u00b050'17\"S", "Temple": "Apia Samoa Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-71.53805555555556, -16.374444444444446]}, "type": "Feature", "properties": {"City": "Arequipa", "Country": "Peru", "Postal Code": "", "Longitude": "71\u00b032'17\"W", "Phone": "", "State": "Arequipa", "Address": "", "Latitude": "16\u00b022'28\"S", "Temple": "Arequipa Peru Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-57.60277777777778, -25.28777777777778]}, "type": "Feature", "properties": {"City": "Asunci\u00f3n", "Country": "Paraguay", "Postal Code": "1441", "Longitude": "57\u00b036'10\"W", "Phone": "(595) 21-230-035", "State": "", "Address": "Esquina Brasilia y Espa\u0144a", "Latitude": "25\u00b017'16\"S", "Temple": "Asunci\u00f3n Paraguay Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-84.36222222222221, 33.931666666666665]}, "type": "Feature", "properties": {"City": "Sandy Springs", "Country": "United States", "Postal Code": "30328-4283", "Longitude": "84\u00b021'44\"W", "Phone": "770-393-3698", "State": "Georgia", "Address": "6450 Barfield Road NE", "Latitude": "33\u00b055'54\"N", "Temple": "Atlanta Georgia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-74.86305555555555, 11.016388888888889]}, "type": "Feature", "properties": {"City": "Puerto Colombia", "Country": "Colombia", "Postal Code": "", "Longitude": "74\u00b051'47\"W", "Phone": "", "State": "", "Address": "", "Latitude": "11\u00b00'59\"N", "Temple": "Barranquilla Colombia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-91.10833333333333, 30.3625]}, "type": "Feature", "properties": {"City": "Baton Rouge", "Country": "United States", "Postal Code": "70810", "Longitude": "91\u00b06'30\"W", "Phone": "225-769-1197", "State": "Louisiana", "Address": "10339 Highland Road", "Latitude": "30\u00b021'45\"N", "Temple": "Baton Rouge Louisiana Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [7.458055555555556, 47.00194444444445]}, "type": "Feature", "properties": {"City": "Zollikofen", "Country": "Switzerland", "Postal Code": "CH-3052", "Longitude": "7\u00b027'29\"E", "Phone": "(41) 31-915-5252", "State": "Bern", "Address": "Tempelstrasse 2", "Latitude": "47\u00b00'7\"N", "Temple": "Bern Switzerland Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-108.63916666666667, 45.80027777777777]}, "type": "Feature", "properties": {"City": "Billings", "Country": "United States", "Postal Code": "59106-1386", "Longitude": "108\u00b038'21\"W", "Phone": "406-655-0607", "State": "Montana", "Address": "3100 Rim Point Drive", "Latitude": "45\u00b048'1\"N", "Temple": "Billings Montana Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-86.82111111111111, 33.67444444444444]}, "type": "Feature", "properties": {"City": "Gardendale", "Country": "United States", "Postal Code": "35071", "Longitude": "86\u00b049'16\"W", "Phone": "205-631-3444", "State": "Alabama", "Address": "1927 Mount Olive Boulevard", "Latitude": "33\u00b040'28\"N", "Temple": "Birmingham Alabama Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-100.81388888888888, 46.83888888888889]}, "type": "Feature", "properties": {"City": "Bismarck", "Country": "United States", "Postal Code": "58503", "Longitude": "100\u00b048'50\"W", "Phone": "701-258-9590", "State": "North Dakota", "Address": "2930 Cody Drive", "Latitude": "46\u00b050'20\"N", "Temple": "Bismarck North Dakota Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-74.05611111111111, 4.707777777777778]}, "type": "Feature", "properties": {"City": "Bogot\u00e1", "Country": "Colombia", "Postal Code": "", "Longitude": "74\u00b03'22\"W", "Phone": "(57) 1-625-8000", "State": "Distrito Capital", "Address": "Carrera 46 no. 127?45", "Latitude": "4\u00b042'28\"N", "Temple": "Bogot\u00e1 Colombia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-116.275, 43.593333333333334]}, "type": "Feature", "properties": {"City": "Boise", "Country": "United States", "Postal Code": "83709-1871", "Longitude": "116\u00b016'30\"W", "Phone": "208-322-4422", "State": "Idaho", "Address": "1211 South Cole Road", "Latitude": "43\u00b035'36\"N", "Temple": "Boise Idaho Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-71.18805555555556, 42.411944444444444]}, "type": "Feature", "properties": {"City": "Belmont", "Country": "United States", "Postal Code": "02478-2135", "Longitude": "71\u00b011'17\"W", "Phone": "617-993-9993", "State": "Massachusetts", "Address": "86 Frontage Road", "Latitude": "42\u00b024'43\"N", "Temple": "Boston Massachusetts Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.84666666666666, 40.882777777777775]}, "type": "Feature", "properties": {"City": "Bountiful", "Country": "United States", "Postal Code": "84010-1394", "Longitude": "111\u00b050'48\"W", "Phone": "801-296-2100", "State": "Utah", "Address": "640 South Bountiful Boulevard", "Latitude": "40\u00b052'58\"N", "Temple": "Bountiful Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-112.01638888888888, 41.50527777777778]}, "type": "Feature", "properties": {"City": "Brigham City", "Country": "United States", "Postal Code": "84302-2120", "Longitude": "112\u00b00'59\"W", "Phone": "435-695-2170", "State": "Utah", "Address": "250 South Main Street", "Latitude": "41\u00b030'19\"N", "Temple": "Brigham City Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [153.0336111111111, -27.480833333333333]}, "type": "Feature", "properties": {"City": "Kangaroo Point", "Country": "Australia", "Postal Code": "4169", "Longitude": "153\u00b02'1\"E", "Phone": "(61) 7-3240-3600", "State": "Queensland", "Address": "200 River Terrace", "Latitude": "27\u00b028'51\"S", "Temple": "Brisbane Australia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-58.518055555555556, -34.72916666666667]}, "type": "Feature", "properties": {"City": "Buenos Aires", "Country": "Argentina", "Postal Code": "B1778 DUA", "Longitude": "58\u00b031'5\"W", "Phone": "(54) 11-4487-1848", "State": "", "Address": "Autopista Richieri y Puente 13 Ciudad Evita", "Latitude": "34\u00b043'45\"S", "Temple": "Buenos Aires Argentina Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-114.23305555555555, 51.14083333333333]}, "type": "Feature", "properties": {"City": "Calgary", "Country": "Canada", "Postal Code": "T3G 5J7", "Longitude": "114\u00b013'59\"W", "Phone": "403-241-4250", "State": "Alberta", "Address": "9802 Rocky Ridge Road NW", "Latitude": "51\u00b08'27\"N", "Temple": "Calgary Alberta Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-47.00111111111111, -22.89638888888889]}, "type": "Feature", "properties": {"City": "Campinas", "Country": "Brazil", "Postal Code": "13092-820", "Longitude": "47\u00b00'4\"W", "Phone": "(55) 19-2102-5800", "State": "S\u0103o Paulo", "Address": "Rua James Esdras Faust 400 Notre Dame", "Latitude": "22\u00b053'47\"S", "Temple": "Campinas Brazil Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-66.83722222222222, 10.470833333333333]}, "type": "Feature", "properties": {"City": "Caracas", "Country": "Venezuela", "Postal Code": "1062-A", "Longitude": "66\u00b050'14\"W", "Phone": "(58) 212-985-9123", "State": "Distrito Federal", "Address": "Avenida C con Calle C-1 Urbanizaci\u00f3n Caurimare", "Latitude": "10\u00b028'15\"N", "Temple": "Caracas Venezuela Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-113.30916666666667, 49.19833333333333]}, "type": "Feature", "properties": {"City": "Cardston", "Country": "Canada", "Postal Code": "T0K 0K0", "Longitude": "113\u00b018'33\"W", "Phone": "403-653-3552", "State": "Alberta", "Address": "348 3rd Street West", "Latitude": "49\u00b011'54\"N", "Temple": "Cardston Alberta Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [123.89805555555556, 10.3275]}, "type": "Feature", "properties": {"City": "Cebu City", "Country": "Philippines", "Postal Code": " 6000", "Longitude": "123\u00b053'53\"E", "Phone": "(63) 32-230-1207", "State": "Cebu", "Address": "Gorordo Avenue Barangay Lahug", "Latitude": "10\u00b019'39\"N", "Temple": "Cebu City Philippines Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-113.09583333333333, 37.67305555555555]}, "type": "Feature", "properties": {"City": "Cedar City", "Country": "United States", "Postal Code": "", "Longitude": "113\u00b05'45\"W", "Phone": "", "State": "Utah", "Address": "300 S Cove Dr", "Latitude": "37\u00b040'23\"N", "Temple": "Cedar City Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-87.85944444444443, 42.086666666666666]}, "type": "Feature", "properties": {"City": "Glenview", "Country": "United States", "Postal Code": "60025-1240", "Longitude": "87\u00b051'34\"W", "Phone": "847-299-6500", "State": "Illinois", "Address": "4151 West Lake Avenue", "Latitude": "42\u00b05'12\"N", "Temple": "Chicago Illinois Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-106.46305555555556, 31.73611111111111]}, "type": "Feature", "properties": {"City": "Ciudad Ju\u00e1rez", "Country": "Mexico", "Postal Code": "32177", "Longitude": "106\u00b027'47\"W", "Phone": "(52) 656-611-5146", "State": "Chihuahua", "Address": "Calle Paraguay no. 2900 Esquina Jos\u00e9 Borunda Colonia Partido Romero", "Latitude": "31\u00b044'10\"N", "Temple": "Ciudad Ju\u00e1rez Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-66.14750000000001, -17.363611111111112]}, "type": "Feature", "properties": {"City": "Cochabamba", "Country": "Bolivia", "Postal Code": "", "Longitude": "66\u00b08'51\"W", "Phone": "(591) 4-429-3161", "State": "Cochabamba", "Address": "Avenida Melchor Urquidi 1500 Alto Queru Queru", "Latitude": "17\u00b021'49\"S", "Temple": "Cochabamba Bolivia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-108.08194444444445, 30.305]}, "type": "Feature", "properties": {"City": "Colonia Ju\u00e1rez", "Country": "Mexico", "Postal Code": "31857", "Longitude": "108\u00b04'55\"W", "Phone": "(52) 636-695-0144", "State": "Chihuahua", "Address": "Calles Chihuahua y D\u00edaz", "Latitude": "30\u00b018'18\"N", "Temple": "Colonia Ju\u00e1rez Chihuahua Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-119.27472222222222, 46.22666666666667]}, "type": "Feature", "properties": {"City": "Richland", "Country": "United States", "Postal Code": "99352", "Longitude": "119\u00b016'29\"W", "Phone": "509-628-0990", "State": "Washington", "Address": "969 Gage Boulevard", "Latitude": "46\u00b013'36\"N", "Temple": "Columbia River Washington Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-80.8938888888889, 33.95944444444445]}, "type": "Feature", "properties": {"City": "Hopkins", "Country": "United States", "Postal Code": "29061-9573", "Longitude": "80\u00b053'38\"W", "Phone": "803-647-9472", "State": "South Carolina", "Address": "2905 Trotter Road", "Latitude": "33\u00b057'34\"N", "Temple": "Columbia South Carolina Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-83.11305555555555, 39.99388888888889]}, "type": "Feature", "properties": {"City": "Columbus", "Country": "United States", "Postal Code": "43228", "Longitude": "83\u00b06'47\"W", "Phone": "614-351-5001", "State": "Ohio", "Address": "3870 Gateway Boulevard", "Latitude": "39\u00b059'38\"N", "Temple": "Columbus Ohio Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-73.04972222222221, -36.85138888888889]}, "type": "Feature", "properties": {"City": "Concepci\u00f3n", "Country": "Chile", "Postal Code": "", "Longitude": "73\u00b02'59\"W", "Phone": "", "State": "B\u00edo-B\u00edo", "Address": "1525 Pedro de Valdivia", "Latitude": "36\u00b051'5\"S", "Temple": "Concepci\u00f3n Chile Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [12.533888888888889, 55.692499999999995]}, "type": "Feature", "properties": {"City": "Frederiksberg", "Country": "Denmark", "Postal Code": "DK-2000", "Longitude": "12\u00b032'2\"E", "Phone": "(45) 38-18-1818", "State": "", "Address": "Priorvej 12", "Latitude": "55\u00b041'33\"N", "Temple": "Copenhagen Denmark Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-64.24555555555555, -31.358611111111113]}, "type": "Feature", "properties": {"City": "C\u00f3rdoba", "Country": "Argentina", "Postal Code": "", "Longitude": "64\u00b014'44\"W", "Phone": "(54) 3543-40-6200", "State": "", "Address": "Avenida Pedro Sim\u00f3n Laplace 5637 Villa Belgrano", "Latitude": "31\u00b021'31\"S", "Temple": "C\u00f3rdoba Argentina Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-49.341944444444444, -25.441111111111113]}, "type": "Feature", "properties": {"City": "Curitiba", "Country": "Brazil", "Postal Code": "81200-110", "Longitude": "49\u00b020'31\"W", "Phone": "(55) 41-3204-6650", "State": "Paran\u00e1", "Address": "Rua Deputado Heitor Alencar Furtado 3641 Mossungu\u0119", "Latitude": "25\u00b026'28\"S", "Temple": "Curitiba Brazil Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-96.79638888888888, 32.91416666666667]}, "type": "Feature", "properties": {"City": "Dallas", "Country": "United States", "Postal Code": "75230-2227", "Longitude": "96\u00b047'47\"W", "Phone": "972-991-1273", "State": "Texas", "Address": "6363 Willow Lane", "Latitude": "32\u00b054'51\"N", "Temple": "Dallas Texas Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-104.96555555555555, 39.56861111111112]}, "type": "Feature", "properties": {"City": "Centennial", "Country": "United States", "Postal Code": "80122", "Longitude": "104\u00b057'56\"W", "Phone": "303-730-0220", "State": "Colorado", "Address": "2001 East Phillips Circle", "Latitude": "39\u00b034'7\"N", "Temple": "Denver Colorado Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-83.22972222222222, 42.566111111111105]}, "type": "Feature", "properties": {"City": "Bloomfield Hills", "Country": "United States", "Postal Code": "48304", "Longitude": "83\u00b013'47\"W", "Phone": "248-593-0690", "State": "Michigan", "Address": "37425 Woodward Avenue", "Latitude": "42\u00b033'58\"N", "Temple": "Detroit Michigan Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.84055555555555, 40.49583333333334]}, "type": "Feature", "properties": {"City": "Draper", "Country": "United States", "Postal Code": "84020-5626", "Longitude": "111\u00b050'26\"W", "Phone": "801-576-4240", "State": "Utah", "Address": "14065 Canyon Vista Lane", "Latitude": "40\u00b029'45\"N", "Temple": "Draper Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-113.57027777777778, 53.489444444444445]}, "type": "Feature", "properties": {"City": "Edmonton", "Country": "Canada", "Postal Code": "T6H 5G6", "Longitude": "113\u00b034'13\"W", "Phone": "780-434-7436", "State": "Alberta", "Address": "14325 53rd Avenue NW", "Latitude": "53\u00b029'22\"N", "Temple": "Edmonton Alberta Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-105.03861111111111, 40.494166666666665]}, "type": "Feature", "properties": {"City": "Fort Collins", "Country": "United States", "Postal Code": "", "Longitude": "105\u00b02'19\"W", "Phone": "", "State": "Colorado", "Address": "Southeast corner of Trilby Road and Timberline Road", "Latitude": "40\u00b029'39\"N", "Temple": "Fort Collins Colorado Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-80.35555555555555, 26.070833333333333]}, "type": "Feature", "properties": {"City": "Davie", "Country": "United States", "Postal Code": "33331", "Longitude": "80\u00b021'20\"W", "Phone": "954-382-8390", "State": "Florida", "Address": "3901 SW 154th Avenue", "Latitude": "26\u00b04'15\"N", "Temple": "Fort Lauderdale Florida Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-38.46083333333333, -3.747777777777778]}, "type": "Feature", "properties": {"City": "Fortaleza", "Country": "Brazil", "Postal Code": "", "Longitude": "38\u00b027'39\"W", "Phone": "", "State": "Cear\u00e1", "Address": "Avenida Santos Dumont esq Rua Mal. Mascarenhas Morais", "Latitude": "3\u00b044'52\"S", "Temple": "Fortaleza Brazil Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [8.64111111111111, 50.25805555555556]}, "type": "Feature", "properties": {"City": "Friedrichsdorf", "Country": "Germany", "Postal Code": "DE-61381", "Longitude": "8\u00b038'28\"E", "Phone": "(49) 6172-59000", "State": "Hessen", "Address": "Talstrasse 10", "Latitude": "50\u00b015'29\"N", "Temple": "Frankfurt Germany Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [13.3225, 50.92222222222222]}, "type": "Feature", "properties": {"City": "Freiberg", "Country": "Germany", "Postal Code": "DE-09599", "Longitude": "13\u00b019'21\"E", "Phone": "(49) 3731-35960", "State": "Sachsen", "Address": "Hainichener Strasse 64", "Latitude": "50\u00b055'20\"N", "Temple": "Freiberg Germany Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-119.85277777777777, 36.82805555555556]}, "type": "Feature", "properties": {"City": "Fresno", "Country": "United States", "Postal Code": "93711", "Longitude": "119\u00b051'10\"W", "Phone": "559-437-9451", "State": "California", "Address": "6290 North Valentine Avenue", "Latitude": "36\u00b049'41\"N", "Temple": "Fresno California Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [130.39166666666665, 33.572500000000005]}, "type": "Feature", "properties": {"City": "Fukuoka-shi", "Country": "Japan", "Postal Code": "810-0029", "Longitude": "130\u00b023'30\"E", "Phone": "(81) 92-525-8255", "State": "Fukuoka-ken", "Address": "9-15 Hirao Johsui Machi Chuo-ku", "Latitude": "33\u00b034'21\"N", "Temple": "Fukuoka Japan Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-109.78972222222222, 32.86277777777778]}, "type": "Feature", "properties": {"City": "Central", "Country": "United States", "Postal Code": "85531", "Longitude": "109\u00b047'23\"W", "Phone": "928-428-7243", "State": "Arizona", "Address": "5291 West Highway 70", "Latitude": "32\u00b051'46\"N", "Temple": "The Gila Valley Arizona Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.73722222222223, 33.29111111111111]}, "type": "Feature", "properties": {"City": "Gilbert", "Country": "United States", "Postal Code": "85297", "Longitude": "111\u00b044'14\"W", "Phone": "480-822-5000", "State": "Arizona", "Address": "3301 S Greenfield Rd", "Latitude": "33\u00b017'28\"N", "Temple": "Gilbert Arizona Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-103.42305555555556, 20.661388888888887]}, "type": "Feature", "properties": {"City": "Zapop\u00e1n", "Country": "Mexico", "Postal Code": "45030", "Longitude": "103\u00b025'23\"W", "Phone": "(52) 333-125-1283", "State": "Jalisco", "Address": "Avenida Patria no. 879 Fraccionamiento Jardines Tepeyac", "Latitude": "20\u00b039'41\"N", "Temple": "Guadalajara Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-90.48555555555555, 14.583055555555555]}, "type": "Feature", "properties": {"City": "Guatemala City", "Country": "Guatemala", "Postal Code": "", "Longitude": "90\u00b029'8\"W", "Phone": "(502) 2329-8300", "State": "Guatemala", "Address": "24 Avenida 2-20 Zona 15 Vista Hermosa 1", "Latitude": "14\u00b034'59\"N", "Temple": "Guatemala City Guatemala Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-79.90472222222223, -2.156111111111111]}, "type": "Feature", "properties": {"City": "Urdesa Norte", "Country": "Ecuador", "Postal Code": "", "Longitude": "79\u00b054'17\"W", "Phone": "(593) 4-288-9388", "State": "Guayaquil", "Address": "Calle 6ta y Avenida Rodrigo Ch\u00e1vez Gonz\u00e1lez Principado de las Lomas", "Latitude": "2\u00b09'22\"S", "Temple": "Guayaquil Ecuador Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-63.48888888888889, 44.66972222222222]}, "type": "Feature", "properties": {"City": "Dartmouth", "Country": "Canada", "Postal Code": "B2V 1P1", "Longitude": "63\u00b029'20\"W", "Phone": "902-434-6920", "State": "Nova Scotia", "Address": "44 Cumberland Drive", "Latitude": "44\u00b040'11\"N", "Temple": "Halifax Nova Scotia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [175.22472222222223, -37.82638888888889]}, "type": "Feature", "properties": {"City": "Hamilton", "Country": "New Zealand", "Postal Code": "3218", "Longitude": "175\u00b013'29\"E", "Phone": "(64) 7-846-2750", "State": "", "Address": "509 Tuhikaramea Road Temple View", "Latitude": "37\u00b049'35\"S", "Temple": "Hamilton New Zealand Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-72.84444444444443, 41.737500000000004]}, "type": "Feature", "properties": {"City": "Farmington", "Country": "United States", "Postal Code": "", "Longitude": "72\u00b050'40\"W", "Phone": "", "State": "Connecticut", "Address": "Corner of Farmington Ave and Melrose Dr", "Latitude": "41\u00b044'15\"N", "Temple": "Hartford Connecticut Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [24.781666666666666, 60.225]}, "type": "Feature", "properties": {"City": "Espoo", "Country": "Finland", "Postal Code": "FI-02620", "Longitude": "24\u00b046'54\"E", "Phone": "(358) 9-8493-710 ", "State": "", "Address": "Lepp\u00e4sillantie 3", "Latitude": "60\u00b013'30\"N", "Temple": "Helsinki Finland Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-110.94666666666667, 29.102500000000003]}, "type": "Feature", "properties": {"City": "Hermosillo", "Country": "Mexico", "Postal Code": "83150", "Longitude": "110\u00b056'48\"W", "Phone": "(52) 662-210-5660", "State": "Sonora", "Address": "General Pedro Garc\u00eda Conde no. 303 Esquina Con Juan Jos\u00e9 R\u00edos Colonia Pitic", "Latitude": "29\u00b06'9\"N", "Temple": "Hermosillo Sonora Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [114.17722222222223, 22.340277777777775]}, "type": "Feature", "properties": {"City": "Kowloon City", "Country": "Hong Kong", "Postal Code": "", "Longitude": "114\u00b010'38\"E", "Phone": "(852) 2339-8100", "State": "", "Address": "2 Cornwall Street Kowloon Tong", "Latitude": "22\u00b020'25\"N", "Temple": "Hong Kong China Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-95.53277777777778, 29.999722222222225]}, "type": "Feature", "properties": {"City": "Spring", "Country": "United States", "Postal Code": "77379-7036", "Longitude": "95\u00b031'58\"W", "Phone": "281-376-6804", "State": "Texas", "Address": "15725 Champion Forest Drive", "Latitude": "29\u00b059'59\"N", "Temple": "Houston Texas Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-112.04138888888889, 43.499722222222225]}, "type": "Feature", "properties": {"City": "Idaho Falls", "Country": "United States", "Postal Code": "83402-3497", "Longitude": "112\u00b02'29\"W", "Phone": "208-522-7669", "State": "Idaho", "Address": "1000 Memorial Drive", "Latitude": "43\u00b029'59\"N", "Temple": "Idaho Falls Idaho Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-86.16555555555556, 39.955555555555556]}, "type": "Feature", "properties": {"City": "Carmel", "Country": "United States", "Postal Code": "", "Longitude": "86\u00b09'56\"W", "Phone": "", "State": "Indiana", "Address": "11565 Temple Dr", "Latitude": "39\u00b057'20\"N", "Temple": "Indianapolis Indiana Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [28.039166666666667, -26.17777777777778]}, "type": "Feature", "properties": {"City": "Johannesburg", "Country": "South Africa", "Postal Code": "2193", "Longitude": "28\u00b02'21\"E", "Phone": "(27) 11-645-1540", "State": "", "Address": "7 Jubilee Road Parktown", "Latitude": "26\u00b010'40\"S", "Temple": "Johannesburg South Africa Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.93138888888889, 40.566111111111105]}, "type": "Feature", "properties": {"City": "South Jordan", "Country": "United States", "Postal Code": "84095-8814", "Longitude": "111\u00b055'53\"W", "Phone": "801-254-3003", "State": "Utah", "Address": "10200 South 1300 West", "Latitude": "40\u00b033'58\"N", "Temple": "Jordan River Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-94.50111111111111, 39.22027777777778]}, "type": "Feature", "properties": {"City": "Kansas City", "Country": "United States", "Postal Code": "", "Longitude": "94\u00b030'4\"W", "Phone": "816-413-1430", "State": "Missouri", "Address": "7001 Searcy Creek Parkway", "Latitude": "39\u00b013'13\"N", "Temple": "Kansas City Missouri Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [15.273611111111112, -4.3277777777777775]}, "type": "Feature", "properties": {"City": "Kinshasa", "Country": "Democratic Republic of Congo", "Postal Code": "", "Longitude": "15\u00b016'25\"E", "Phone": "", "State": "", "Address": "", "Latitude": "4\u00b019'40\"S", "Temple": "Kinshasa Democratic Republic of the Congo Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-155.98527777777775, 19.641388888888887]}, "type": "Feature", "properties": {"City": "Kailua Kona", "Country": "United States", "Postal Code": "96740-1833", "Longitude": "155\u00b059'7\"W", "Phone": "808-331-8504", "State": "Hawaii", "Address": "75-230 Kalani Street", "Latitude": "19\u00b038'29\"N", "Temple": "Kona Hawaii Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [30.395555555555553, 50.404444444444444]}, "type": "Feature", "properties": {"City": "Kyevo-Sviatoshyns'ky Rayon", "Country": "Ukraine", "Postal Code": "18131", "Longitude": "30\u00b023'44\"E", "Phone": "(380) 44-371-4088", "State": "Kyivs'ka Oblast", "Address": "1 Yabluneva Street v. Sofiivs'ka Borshchagivka", "Latitude": "50\u00b024'16\"N", "Temple": "Kyiv Ukraine Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-157.93055555555554, 21.646944444444443]}, "type": "Feature", "properties": {"City": "Laie", "Country": "United States", "Postal Code": "96762-1299", "Longitude": "157\u00b055'50\"W", "Phone": "808-293-2427", "State": "Hawaii", "Address": "55-600 Naniloa Loop", "Latitude": "21\u00b038'49\"N", "Temple": "Laie Hawaii Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-115.02, 36.17444444444444]}, "type": "Feature", "properties": {"City": "Las Vegas", "Country": "United States", "Postal Code": "89110-2920", "Longitude": "115\u00b01'12\"W", "Phone": "702-452-5011", "State": "Nevada", "Address": "827 Temple View Drive", "Latitude": "36\u00b010'28\"N", "Temple": "Las Vegas Nevada Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-76.94888888888889, -12.069444444444445]}, "type": "Feature", "properties": {"City": "Lima", "Country": "Peru", "Postal Code": "12", "Longitude": "76\u00b056'56\"W", "Phone": "(51) 1-612-7200", "State": "Lima", "Address": "Calle Saint Tropez N\u00b0 140  Urb. La Riviera de Monterrico La Molina", "Latitude": "12\u00b04'10\"S", "Temple": "Lima Peru Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-9.173888888888888, 38.77611111111111]}, "type": "Feature", "properties": {"City": "Lisbon", "Country": "Portugal", "Postal Code": "", "Longitude": "9\u00b010'26\"W", "Phone": "", "State": "", "Address": "", "Latitude": "38\u00b046'34\"N", "Temple": "Lisbon Portugal Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.82777777777777, 41.73388888888889]}, "type": "Feature", "properties": {"City": "Logan", "Country": "United States", "Postal Code": "84321-4720", "Longitude": "111\u00b049'40\"W", "Phone": "435-752-3611", "State": "Utah", "Address": "175 North 300 East", "Latitude": "41\u00b044'2\"N", "Temple": "Logan Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [0.051944444444444446, 51.1625]}, "type": "Feature", "properties": {"City": "Newchapel", "Country": "United Kingdom", "Postal Code": "RH7 6HW", "Longitude": "-0\u00b03'7\"E", "Phone": "(44) 1342-832759", "State": "", "Address": "West Park Road", "Latitude": "51\u00b09'45\"N", "Temple": "London England Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-118.43388888888889, 34.05277777777778]}, "type": "Feature", "properties": {"City": "Los Angeles", "Country": "United States", "Postal Code": "90025-4718", "Longitude": "118\u00b026'2\"W", "Phone": "310-474-5569", "State": "California", "Address": "10777 Santa Monica Boulevard", "Latitude": "34\u00b03'10\"N", "Temple": "Los Angeles California Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-85.48861111111111, 38.321111111111115]}, "type": "Feature", "properties": {"City": "Crestwood", "Country": "United States", "Postal Code": "40014", "Longitude": "85\u00b029'19\"W", "Phone": "502-241-4115", "State": "Kentucky", "Address": "7116 West Highway 22", "Latitude": "38\u00b019'16\"N", "Temple": "Louisville Kentucky Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-101.9413888888889, 33.528888888888886]}, "type": "Feature", "properties": {"City": "Lubbock", "Country": "United States", "Postal Code": "79424", "Longitude": "101\u00b056'29\"W", "Phone": "806-794-0774", "State": "Texas", "Address": "7016 Frankford Avenue", "Latitude": "33\u00b031'44\"N", "Temple": "Lubbock Texas Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-3.631388888888889, 40.4]}, "type": "Feature", "properties": {"City": "Madrid", "Country": "Spain", "Postal Code": "ES-28030", "Longitude": "3\u00b037'53\"W", "Phone": "(34) 91-301-7607", "State": "", "Address": "Calle del Templo no. 2", "Latitude": "40\u00b024'0\"N", "Temple": "Madrid Spain Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-60.08916666666667, -3.073888888888889]}, "type": "Feature", "properties": {"City": "Manaus", "Country": "Brazil", "Postal Code": "", "Longitude": "60\u00b05'21\"W", "Phone": "(55) 92-3212-7270", "State": "Amazonas", "Address": "Avenida Coronel Texeira 3162 Ponta Negra", "Latitude": "3\u00b04'26\"S", "Temple": "Manaus Brazil Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-73.98138888888889, 40.77305555555555]}, "type": "Feature", "properties": {"City": "New York", "Country": "United States", "Postal Code": "10023-6514", "Longitude": "73\u00b058'53\"W", "Phone": "917-441-8220", "State": "New York", "Address": "125 Columbus Avenue", "Latitude": "40\u00b046'23\"N", "Temple": "Manhattan New York Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [121.06972222222223, 14.601111111111111]}, "type": "Feature", "properties": {"City": "Quezon City", "Country": "Philippines", "Postal Code": "1110", "Longitude": "121\u00b04'11\"E", "Phone": "(63) 2-635-0954", "State": "Metro Manila", "Address": "13 Temple Drive Greenmeadows Subdivision", "Latitude": "14\u00b036'4\"N", "Temple": "Manila Philippines Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.63361111111112, 39.272777777777776]}, "type": "Feature", "properties": {"City": "Manti", "Country": "United States", "Postal Code": "84642", "Longitude": "111\u00b038'1\"W", "Phone": "435-835-2291", "State": "Utah", "Address": "Temple Hill", "Latitude": "39\u00b016'22\"N", "Temple": "Manti Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-122.9325, 42.37305555555555]}, "type": "Feature", "properties": {"City": "Central Point", "Country": "United States", "Postal Code": "97502", "Longitude": "122\u00b055'57\"W", "Phone": "541-664-2050", "State": "Oregon", "Address": "3900 Grant Road", "Latitude": "42\u00b022'23\"N", "Temple": "Medford Oregon Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [145.21249999999998, -37.868611111111115]}, "type": "Feature", "properties": {"City": "Wantirna South", "Country": "Australia", "Postal Code": "3152", "Longitude": "145\u00b012'45\"E", "Phone": "(61) 03-9881-9700", "State": "Victoria", "Address": "76 Cathies Lane", "Latitude": "37\u00b052'7\"S", "Temple": "Melbourne Australia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-89.83916666666666, 35.24055555555556]}, "type": "Feature", "properties": {"City": "Bartlett", "Country": "United States", "Postal Code": "38135", "Longitude": "89\u00b050'21\"W", "Phone": "901-379-0202", "State": "Tennessee", "Address": "4199 Kirby-Whitten Parkway", "Latitude": "35\u00b014'26\"N", "Temple": "Memphis Tennessee Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-89.63083333333333, 20.965555555555554]}, "type": "Feature", "properties": {"City": "M\u00e9rida", "Country": "Mexico", "Postal Code": "97000", "Longitude": "89\u00b037'51\"W", "Phone": "(52) 999-928-1643", "State": "Yucat\u00e1n", "Address": "Calle 70 no. 527 Esquina 65 y 67 Colonia Centro", "Latitude": "20\u00b057'56\"N", "Temple": "M\u00e9rida Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-116.415, 43.670833333333334]}, "type": "Feature", "properties": {"City": "Meridian", "Country": "United States", "Postal Code": "", "Longitude": "116\u00b024'54\"W", "Phone": "", "State": "Idaho", "Address": "7345 North Linder Road", "Latitude": "43\u00b040'15\"N", "Temple": "Meridian Idaho Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.81944444444444, 33.41277777777778]}, "type": "Feature", "properties": {"City": "Mesa", "Country": "United States", "Postal Code": "85204-1031", "Longitude": "111\u00b049'10\"W", "Phone": "480-833-1211", "State": "Arizona", "Address": "101 South LeSueur", "Latitude": "33\u00b024'46\"N", "Temple": "Mesa Arizona Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-99.08666666666666, 19.465833333333332]}, "type": "Feature", "properties": {"City": "M\u00e9xico City", "Country": "Mexico", "Postal Code": "07950", "Longitude": "99\u00b05'12\"W", "Phone": "(52) 55-5003-3734", "State": "Distrito Federal", "Address": "Avenida 510 no. 90 Colonia San Juan de Arag\u00f3n", "Latitude": "19\u00b027'57\"N", "Temple": "Mexico City Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-100.25972222222222, 25.589166666666664]}, "type": "Feature", "properties": {"City": "Monterrey", "Country": "Mexico", "Postal Code": "64989", "Longitude": "100\u00b015'35\"W", "Phone": "(52) 818-104-0635", "State": "Nuevo Le\u00f3n", "Address": "Avenida Eugenio Garza Sada Esquina Privada Valle de la Estanzuela Colonia Valle Alto", "Latitude": "25\u00b035'21\"N", "Temple": "Monterrey Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-56.073888888888895, -34.888333333333335]}, "type": "Feature", "properties": {"City": "Montevideo", "Country": "Uruguay", "Postal Code": "11500", "Longitude": "56\u00b04'26\"W", "Phone": "(598) 2-604-2212", "State": "", "Address": "Bolonia 1722 Carrasco", "Latitude": "34\u00b053'18\"S", "Temple": "Montevideo Uruguay Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-109.34694444444445, 37.87777777777778]}, "type": "Feature", "properties": {"City": "Monticello", "Country": "United States", "Postal Code": "84535", "Longitude": "109\u00b020'49\"W", "Phone": "435-587-3500", "State": "Utah", "Address": "365 North 200 West", "Latitude": "37\u00b052'40\"N", "Temple": "Monticello Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-73.49055555555556, 45.56333333333333]}, "type": "Feature", "properties": {"City": "Longueuil", "Country": "Canada", "Postal Code": "J4G 1A4", "Longitude": "73\u00b029'26\"W", "Phone": "450-646-5775", "State": "Quebec", "Address": "1450 Boulevard Marie-Victorin", "Latitude": "45\u00b033'48\"N", "Temple": "Montreal Quebec Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.77027777777778, 40.393055555555556]}, "type": "Feature", "properties": {"City": "American Fork", "Country": "United States", "Postal Code": "84003-9124", "Longitude": "111\u00b046'13\"W", "Phone": "801-763-4540", "State": "Utah", "Address": "742 North 900 East", "Latitude": "40\u00b023'35\"N", "Temple": "Mount Timpanogos Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-86.86027777777777, 35.948611111111106]}, "type": "Feature", "properties": {"City": "Franklin", "Country": "United States", "Postal Code": "37069", "Longitude": "86\u00b051'37\"W", "Phone": "615-791-8668", "State": "Tennessee", "Address": "1100 Gray Fox Lane", "Latitude": "35\u00b056'55\"N", "Temple": "Nashville Tennessee Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-91.38416666666667, 40.55027777777777]}, "type": "Feature", "properties": {"City": "Nauvoo", "Country": "United States", "Postal Code": "62354", "Longitude": "91\u00b023'3\"W", "Phone": "217-453-6252", "State": "Illinois", "Address": "50 North Wells Street", "Latitude": "40\u00b033'1\"N", "Temple": "Nauvoo Illinois Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-117.84861111111111, 33.629444444444445]}, "type": "Feature", "properties": {"City": "Newport Beach", "Country": "United States", "Postal Code": "92660-9118", "Longitude": "117\u00b050'55\"W", "Phone": "949-644-1820", "State": "California", "Address": "2300 Bonita Canyon Drive", "Latitude": "33\u00b037'46\"N", "Temple": "Newport Beach California Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-175.27222222222224, -21.162499999999998]}, "type": "Feature", "properties": {"City": "Nuku'alofa", "Country": "Tonga", "Postal Code": "", "Longitude": "175\u00b016'20\"W", "Phone": "(676) 20-300", "State": "Tongatapu", "Address": "Loto Road Liahona", "Latitude": "21\u00b09'45\"S", "Temple": "Nuku'alofa Tonga Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-122.19888888888889, 37.80777777777777]}, "type": "Feature", "properties": {"City": "Oakland", "Country": "United States", "Postal Code": "94602-2535", "Longitude": "122\u00b011'56\"W", "Phone": "510-531-3200", "State": "California", "Address": "4770 Lincoln Avenue", "Latitude": "37\u00b048'28\"N", "Temple": "Oakland California Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-96.71333333333334, 17.04138888888889]}, "type": "Feature", "properties": {"City": "Oaxaca", "Country": "Mexico", "Postal Code": "68130", "Longitude": "96\u00b042'48\"W", "Phone": "(52) 951-516-9588", "State": "Oaxaca", "Address": "Avenida Universidad no. 139 Fraccionamiento Real de Candiani", "Latitude": "17\u00b02'29\"N", "Temple": "Oaxaca Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.9713888888889, 41.22777777777778]}, "type": "Feature", "properties": {"City": "Ogden", "Country": "United States", "Postal Code": "84401-1487", "Longitude": "111\u00b058'17\"W", "Phone": "801-621-6880", "State": "Utah", "Address": "350 22nd Street", "Latitude": "41\u00b013'40\"N", "Temple": "Ogden Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-97.72666666666667, 35.59166666666667]}, "type": "Feature", "properties": {"City": "Yukon", "Country": "United States", "Postal Code": "73099", "Longitude": "97\u00b043'36\"W", "Phone": "405-373-2309", "State": "Oklahoma", "Address": "12030 North Mustang Road", "Latitude": "35\u00b035'30\"N", "Temple": "Oklahoma City Oklahoma Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.9875, 40.551111111111105]}, "type": "Feature", "properties": {"City": "South Jordan", "Country": "United States", "Postal Code": "84095-5797", "Longitude": "111\u00b059'15\"W", "Phone": "801-878-3800", "State": "Utah", "Address": "11022 South 4000 West", "Latitude": "40\u00b033'4\"N", "Temple": "Oquirrh Mountain Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-81.50944444444444, 28.50722222222222]}, "type": "Feature", "properties": {"City": "Windermere", "Country": "United States", "Postal Code": "34786-8347", "Longitude": "81\u00b030'34\"W", "Phone": "407-876-0022", "State": "Florida", "Address": "9000 Windy Ridge Road", "Latitude": "28\u00b030'26\"N", "Temple": "Orlando Florida Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-77.23694444444445, 43.038888888888884]}, "type": "Feature", "properties": {"City": "Palmyra", "Country": "United States", "Postal Code": "14522", "Longitude": "77\u00b014'13\"W", "Phone": "315-597-6001", "State": "New York", "Address": "2720 Temple Road", "Latitude": "43\u00b02'20\"N", "Temple": "Palmyra New York Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-79.57027777777778, 8.991388888888888]}, "type": "Feature", "properties": {"City": "Anc\u00f3n", "Country": "Panama", "Postal Code": "", "Longitude": "79\u00b034'13\"W", "Phone": "(507) 317-6900", "State": "C\u00e1rdenas", "Address": "Calle Rufina 3172", "Latitude": "8\u00b059'29\"N", "Temple": "Panama City Panama Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-149.55583333333334, -17.53638888888889]}, "type": "Feature", "properties": {"City": "Papeete", "Country": "French Polynesia", "Postal Code": "98716", "Longitude": "149\u00b033'21\"W", "Phone": "(689) 503-939", "State": "Tahiti", "Address": "Route de Fautaua?Titioro", "Latitude": "17\u00b032'11\"S", "Temple": "Papeete Tahiti Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [2.1230555555555557, 48.81777777777778]}, "type": "Feature", "properties": {"City": "Le Chesnay", "Country": "France", "Postal Code": "78150", "Longitude": "2\u00b07'23\"E", "Phone": "", "State": "", "Address": "46 Boulevard Saint-Antoine", "Latitude": "48\u00b049'4\"N", "Temple": "Paris France Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.74916666666667, 40.01916666666666]}, "type": "Feature", "properties": {"City": "Payson", "Country": "United States", "Postal Code": "", "Longitude": "111\u00b044'57\"W", "Phone": "801-754-4949", "State": "Utah", "Address": "1494 South 930 West", "Latitude": "40\u00b01'9\"N", "Temple": "Payson Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [115.86972222222222, -31.906666666666666]}, "type": "Feature", "properties": {"City": "Yokine", "Country": "Australia", "Postal Code": "6060", "Longitude": "115\u00b052'11\"E", "Phone": "(61) 08-9276-0000", "State": "Western Australia", "Address": "163-173 Wordsworth Avenue", "Latitude": "31\u00b054'24\"S", "Temple": "Perth Australia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-75.16805555555555, 39.95916666666667]}, "type": "Feature", "properties": {"City": "Philadelphia", "Country": "United States", "Postal Code": "", "Longitude": "75\u00b010'5\"W", "Phone": "", "State": "Pennsylvania", "Address": "1739 Vine Street", "Latitude": "39\u00b057'33\"N", "Temple": "Philadelphia Pennsylvania Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-112.17222222222223, 33.69833333333333]}, "type": "Feature", "properties": {"City": "Phoenix", "Country": "United States", "Postal Code": "85310", "Longitude": "112\u00b010'20\"W", "Phone": "623-474-9500", "State": "Arizona", "Address": "5220 West Pinnacle Peak Road", "Latitude": "33\u00b041'54\"N", "Temple": "Phoenix Arizona Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-122.74222222222222, 45.42527777777777]}, "type": "Feature", "properties": {"City": "Lake Oswego", "Country": "United States", "Postal Code": "97035-8602", "Longitude": "122\u00b044'32\"W", "Phone": "503-639-7066", "State": "Oregon", "Address": "13600 SW Kruse Oaks Boulevard", "Latitude": "45\u00b025'31\"N", "Temple": "Portland Oregon Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-51.157777777777774, -30.03388888888889]}, "type": "Feature", "properties": {"City": "Porto Alegre", "Country": "Brazil", "Postal Code": "91320-240", "Longitude": "51\u00b09'28\"W", "Phone": "(55) 51-3338-0400", "State": "Rio Grande do Sul", "Address": "Rua General Salvador Pinheiro 50 Vila Jardim", "Latitude": "30\u00b02'2\"S", "Temple": "Porto Alegre Brazil Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-2.631111111111111, 53.67222222222222]}, "type": "Feature", "properties": {"City": "Lancashire", "Country": "United Kingdom", "Postal Code": "PR6 7EQ", "Longitude": "2\u00b037'52\"W", "Phone": "(44) 1257-226100", "State": "", "Address": "Temple Way Hartwood Green Chorley", "Latitude": "53\u00b040'20\"N", "Temple": "Preston England Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.65916666666668, 40.2325]}, "type": "Feature", "properties": {"City": "Provo", "Country": "United States", "Postal Code": "", "Longitude": "111\u00b039'33\"W", "Phone": "", "State": "Utah", "Address": "Corner of 100 S and University Ave", "Latitude": "40\u00b013'57\"N", "Temple": "Provo City Center Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.63972222222223, 40.26361111111111]}, "type": "Feature", "properties": {"City": "Provo", "Country": "United States", "Postal Code": "84604-1766", "Longitude": "111\u00b038'23\"W", "Phone": "801-375-5775", "State": "Utah", "Address": "2200 Temple Hill Drive", "Latitude": "40\u00b015'49\"N", "Temple": "Provo Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-91.5425, 14.846388888888889]}, "type": "Feature", "properties": {"City": "Quetzaltenango", "Country": "Guatemala", "Postal Code": "09000", "Longitude": "91\u00b032'33\"W", "Phone": "(502) 7728-1603 ", "State": "", "Address": "9a Calle 4-03 Zona 9 Frente a Residenciales Los Cerezos 1", "Latitude": "14\u00b050'47\"N", "Temple": "Quetzaltenango Guatemala Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-78.86138888888888, 35.731944444444444]}, "type": "Feature", "properties": {"City": "Apex", "Country": "United States", "Postal Code": "27502", "Longitude": "78\u00b051'41\"W", "Phone": "919-362-4135", "State": "North Carolina", "Address": "574 Bryan Drive", "Latitude": "35\u00b043'55\"N", "Temple": "Raleigh North Carolina Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-34.91111111111111, -8.036388888888888]}, "type": "Feature", "properties": {"City": "Recife", "Country": "Brazil", "Postal Code": "52060-380", "Longitude": "34\u00b054'40\"W", "Phone": "(55) 81-2129-4300", "State": "Pernambuco", "Address": "Rua Dr. Jos\u00e9 de G\u00f3es 284 Parnamirim", "Latitude": "8\u00b02'11\"S", "Temple": "Recife Brazil Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-117.14055555555557, 34.04888888888889]}, "type": "Feature", "properties": {"City": "Redlands", "Country": "United States", "Postal Code": "92374", "Longitude": "117\u00b08'26\"W", "Phone": "909-389-7369", "State": "California", "Address": "1761 5th Avenue", "Latitude": "34\u00b02'56\"N", "Temple": "Redlands California Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-104.54166666666667, 50.420833333333334]}, "type": "Feature", "properties": {"City": "Regina", "Country": "Canada", "Postal Code": "S4V 2J6", "Longitude": "104\u00b032'30\"W", "Phone": "306-545-8194", "State": "Saskatchewan", "Address": "111 Wascana Gate North", "Latitude": "50\u00b025'15\"N", "Temple": "Regina Saskatchewan Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-119.89888888888889, 39.53444444444444]}, "type": "Feature", "properties": {"City": "Reno", "Country": "United States", "Postal Code": "89523", "Longitude": "119\u00b053'56\"W", "Phone": "775-747-6688", "State": "Nevada", "Address": "2000 Beaumont Parkway", "Latitude": "39\u00b032'4\"N", "Temple": "Reno Nevada Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.77888888888889, 43.81083333333333]}, "type": "Feature", "properties": {"City": "Rexburg", "Country": "United States", "Postal Code": "83440-5404", "Longitude": "111\u00b046'44\"W", "Phone": "208-656-0880", "State": "Idaho", "Address": "750 South 2nd East", "Latitude": "43\u00b048'39\"N", "Temple": "Rexburg Idaho Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-43.39972222222222, -23.000833333333333]}, "type": "Feature", "properties": {"City": "Rio de Janeiro", "Country": "Brazil", "Postal Code": "", "Longitude": "43\u00b023'59\"W", "Phone": "", "State": "Rio de Janeiro", "Address": "", "Latitude": "23\u00b00'3\"S", "Temple": "Rio de Janeiro Brazil Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [12.544722222222221, 41.97027777777778]}, "type": "Feature", "properties": {"City": "Rome", "Country": "Italy", "Postal Code": "", "Longitude": "12\u00b032'41\"E", "Phone": "", "State": "", "Address": "Via di Settebagni 376", "Latitude": "41\u00b058'13\"N", "Temple": "Rome Italy Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-121.19388888888889, 38.635]}, "type": "Feature", "properties": {"City": "Rancho Cordova", "Country": "United States", "Postal Code": "95742", "Longitude": "121\u00b011'38\"W", "Phone": "916-357-5870", "State": "California", "Address": "2110 California Circle", "Latitude": "38\u00b038'6\"N", "Temple": "Sacramento California Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-113.57777777777777, 37.10027777777778]}, "type": "Feature", "properties": {"City": "St. George", "Country": "United States", "Postal Code": "84770-3699", "Longitude": "113\u00b034'40\"W", "Phone": "435-673-3533", "State": "Utah", "Address": "250 East 400 South", "Latitude": "37\u00b06'1\"N", "Temple": "St. George Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-90.46444444444445, 38.63944444444444]}, "type": "Feature", "properties": {"City": "St. Louis", "Country": "United States", "Postal Code": "63141-8620", "Longitude": "90\u00b027'52\"W", "Phone": "314-514-1122", "State": "Missouri", "Address": "12555 North Outer Forty Drive", "Latitude": "38\u00b038'22\"N", "Temple": "St. Louis Missouri Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-92.965, 44.980000000000004]}, "type": "Feature", "properties": {"City": "Oakdale", "Country": "United States", "Postal Code": "55128-4505", "Longitude": "92\u00b057'54\"W", "Phone": "651-748-5910", "State": "Minnesota", "Address": "2150 Hadley Avenue North", "Latitude": "44\u00b058'48\"N", "Temple": "St. Paul Minnesota Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-111.89194444444445, 40.77027777777778]}, "type": "Feature", "properties": {"City": "Salt Lake City", "Country": "United States", "Postal Code": "84150-0701", "Longitude": "111\u00b053'31\"W", "Phone": "801-240-2640", "State": "Utah", "Address": "50 West North Temple Street", "Latitude": "40\u00b046'13\"N", "Temple": "Salt Lake Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-98.48861111111111, 29.641388888888887]}, "type": "Feature", "properties": {"City": "San Antonio", "Country": "United States", "Postal Code": "78258-6920", "Longitude": "98\u00b029'19\"W", "Phone": "210-538-0034", "State": "Texas", "Address": "20080 Stone Oak Parkway", "Latitude": "29\u00b038'29\"N", "Temple": "San Antonio Texas Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-117.2286111111111, 32.86638888888889]}, "type": "Feature", "properties": {"City": "San Diego", "Country": "United States", "Postal Code": "92122-5000", "Longitude": "117\u00b013'43\"W", "Phone": "858-622-0991", "State": "California", "Address": "7474 Charmant Drive", "Latitude": "32\u00b051'59\"N", "Temple": "San Diego California Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-84.18472222222222, 9.986388888888888]}, "type": "Feature", "properties": {"City": "Heredia", "Country": "Costa Rica", "Postal Code": "40702", "Longitude": "84\u00b011'5\"W", "Phone": "(506) 2293-6681 ext. 10", "State": "", "Address": "Del Hotel Marriott 600 Metros Oeste La Ribera de Bel\u00e9n", "Latitude": "9\u00b059'11\"N", "Temple": "San Jos\u00e9 Costa Rica Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-89.24666666666667, 13.683333333333334]}, "type": "Feature", "properties": {"City": "Antiguo Cuscatl\u00e1n", "Country": "El Salvador", "Postal Code": "", "Longitude": "89\u00b014'48\"W", "Phone": "(503) 2520-2630", "State": "La Libertad", "Address": "Colonia San Benito Avenida El Espino entre Calle El Pedregal y Boulevard Diego de Holgu\u00edn", "Latitude": "13\u00b041'0\"N", "Temple": "San Salvador El Salvador Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-70.60944444444443, -33.43611111111111]}, "type": "Feature", "properties": {"City": "Santiago", "Country": "Chile", "Postal Code": "664-1404", "Longitude": "70\u00b036'34\"W", "Phone": "(56) 2-340-5070", "State": "Regi\u00f3n Metropolitana", "Address": "Pocuro 1940 Providencia", "Latitude": "33\u00b026'10\"S", "Temple": "Santiago Chile Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-69.91694444444445, 18.46638888888889]}, "type": "Feature", "properties": {"City": "Santo Domingo", "Country": "Dominican Republic", "Postal Code": "10106", "Longitude": "69\u00b055'1\"W", "Phone": "809-731-2000", "State": "Distrito Nacional", "Address": "Avenida Bolivar no. 825 Los Robles", "Latitude": "18\u00b027'59\"N", "Temple": "Santo Domingo Dominican Republic Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-46.722500000000004, -23.584999999999997]}, "type": "Feature", "properties": {"City": "S\u0103o Paulo", "Country": "Brazil", "Postal Code": "05512-900", "Longitude": "46\u00b043'21\"W", "Phone": "(55) 11-3723-7600", "State": "S\u0103o Paulo", "Address": "Avenida Professor Francisco Morato 2390 Caxingui", "Latitude": "23\u00b035'6\"S", "Temple": "S\u0103o Paulo Brazil Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [141.44555555555556, 43.02472222222222]}, "type": "Feature", "properties": {"City": "Sapporo-shi", "Country": "Japan", "Postal Code": "", "Longitude": "141\u00b026'44\"E", "Phone": "", "State": "Hokkaid?", "Address": "1-620-5 Ohyachi-Nishi Atsubetsu-ku", "Latitude": "43\u00b01'29\"N", "Temple": "Sapporo Japan Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-122.14083333333333, 47.58388888888889]}, "type": "Feature", "properties": {"City": "Bellevue", "Country": "United States", "Postal Code": "98007-6453", "Longitude": "122\u00b08'27\"W", "Phone": "425-643-5144", "State": "Washington", "Address": "2808 148th Avenue SE", "Latitude": "47\u00b035'2\"N", "Temple": "Seattle Washington Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [126.93111111111112, 37.55888888888889]}, "type": "Feature", "properties": {"City": "Seoul-si", "Country": "South Korea", "Postal Code": "120-836", "Longitude": "126\u00b055'52\"E", "Phone": "(82) 2-334-9100", "State": "Seoul-teukbyeolsi", "Address": "500-23 Changcheon-dong Seodaemun-gu", "Latitude": "37\u00b033'32\"N", "Temple": "Seoul Korea Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-110.11138888888888, 34.50222222222222]}, "type": "Feature", "properties": {"City": "Snowflake", "Country": "United States", "Postal Code": "85937", "Longitude": "110\u00b06'41\"W", "Phone": "928-536-6626", "State": "Arizona", "Address": "1875 West Canyon Drive", "Latitude": "34\u00b030'8\"N", "Temple": "Snowflake Arizona Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-117.22055555555556, 47.62]}, "type": "Feature", "properties": {"City": "Spokane", "Country": "United States", "Postal Code": "99037", "Longitude": "117\u00b013'14\"W", "Phone": "509-926-2824", "State": "Washington", "Address": "13710 East Belle Terre Avenue", "Latitude": "47\u00b037'12\"N", "Temple": "Spokane Washington Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-110.93222222222222, 42.71194444444445]}, "type": "Feature", "properties": {"City": "Afton", "Country": "United States", "Postal Code": "", "Longitude": "110\u00b055'56\"W", "Phone": "", "State": "Wyoming", "Address": "885 South Washington Street", "Latitude": "42\u00b042'43\"N", "Temple": "Star Valley Wyoming Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [18.109166666666667, 59.12444444444444]}, "type": "Feature", "properties": {"City": "V\u00e4sterhaninge", "Country": "Sweden", "Postal Code": "SE-13742", "Longitude": "18\u00b06'33\"E", "Phone": "(46) 8-500-655-00", "State": "", "Address": "Tempelv\u00e4gen 5", "Latitude": "59\u00b07'28\"N", "Temple": "Stockholm Sweden Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [178.43833333333333, -18.119444444444444]}, "type": "Feature", "properties": {"City": "Samabula", "Country": "", "Postal Code": "", "Longitude": "178\u00b026'18\"E", "Phone": "Fiji", "State": " Suva", "Address": "2-20 Lakeba Street", "Latitude": "18\u00b07'10\"S", "Temple": "Suva Fiji Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [151.05055555555558, -33.775555555555556]}, "type": "Feature", "properties": {"City": "Carlingford", "Country": "Australia", "Postal Code": "2118", "Longitude": "151\u00b03'2\"E", "Phone": "(61) 02-9841-5471", "State": "New South Wales", "Address": "756 Pennant Hills Road (Corner of Pennant Hills Road and Moseley Street)", "Latitude": "33\u00b046'32\"S", "Temple": "Sydney Australia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [121.52777777777777, 25.03111111111111]}, "type": "Feature", "properties": {"City": "Taipei", "Country": "Taiwan", "Postal Code": "106", "Longitude": "121\u00b031'40\"E", "Phone": "(886) 2-2351-0218", "State": "", "Address": "256 Ai Kuo East Road", "Latitude": "25\u00b01'52\"N", "Temple": "Taipei Taiwan Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-97.85583333333332, 22.254166666666666]}, "type": "Feature", "properties": {"City": "Ciudad Madero", "Country": "Mexico", "Postal Code": "89480", "Longitude": "97\u00b051'21\"W", "Phone": "(52) 833-216-9660", "State": "Tamaulipas", "Address": "Avenida Ej\u00e9rcito Mexicano no. 74 con 3A Avenida Colonia Lomas del Gallo", "Latitude": "22\u00b015'15\"N", "Temple": "Tampico Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-87.23777777777778, 14.051944444444445]}, "type": "Feature", "properties": {"City": "Comayag\u00fcela", "Country": "", "Postal Code": "Francisco Moraz\u00e1n", "Longitude": "87\u00b014'16\"W", "Phone": "Honduras", "State": " M.D.C.", "Address": "Residenciales Roble Oeste Boulevard Roble Oeste 3ra Calle Sur", "Latitude": "14\u00b03'7\"N", "Temple": "Tegucigalpa Honduras Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [4.502777777777778, 52.05444444444444]}, "type": "Feature", "properties": {"City": "Zoetermeer", "Country": "Netherlands", "Postal Code": "NL-2722 CV", "Longitude": "4\u00b030'10\"E", "Phone": "(31) 79-343-5310", "State": "", "Address": "Osijlaan 2", "Latitude": "52\u00b03'16\"N", "Temple": "The Hague Netherlands Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-116.92944444444444, 32.48861111111111]}, "type": "Feature", "properties": {"City": "Tijuana", "Country": "Mexico", "Postal Code": "", "Longitude": "116\u00b055'46\"W", "Phone": "", "State": "Baja California", "Address": "", "Latitude": "32\u00b029'19\"N", "Temple": "Tijuana Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [139.72444444444446, 35.65277777777778]}, "type": "Feature", "properties": {"City": "Tokyo", "Country": "Japan", "Postal Code": "106-0047", "Longitude": "139\u00b043'28\"E", "Phone": "(81) 3-3442-8171", "State": "", "Address": "5-8-10 Minami Azabu Minato-Ku", "Latitude": "35\u00b039'10\"N", "Temple": "Tokyo Japan Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-79.74583333333334, 43.744166666666665]}, "type": "Feature", "properties": {"City": "Brampton", "Country": "Canada", "Postal Code": "L6R 1A1", "Longitude": "79\u00b044'45\"W", "Phone": "905-799-1122", "State": "Ontario", "Address": "10060 Bramalea Road", "Latitude": "43\u00b044'39\"N", "Temple": "Toronto Ontario Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-79.05833333333334, -8.1]}, "type": "Feature", "properties": {"City": "Trujillo", "Country": "Peru", "Postal Code": "", "Longitude": "79\u00b03'30\"W", "Phone": "(51) 44-602-130", "State": "La Libertad", "Address": "Avenida Mansiche Kil\u00f3metro 35 Distrito Huanchaco", "Latitude": "8\u00b06'0\"S", "Temple": "Trujillo Peru Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-110.94916666666667, 32.33833333333334]}, "type": "Feature", "properties": {"City": "Tucson", "Country": "United States", "Postal Code": "", "Longitude": "110\u00b056'57\"W", "Phone": "", "State": "Arizona", "Address": "N Skyline Dr", "Latitude": "32\u00b020'18\"N", "Temple": "Tucson Arizona Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-93.1588888888889, 16.76388888888889]}, "type": "Feature", "properties": {"City": "Tuxtla Guti\u00e9rrez", "Country": "Mexico", "Postal Code": "29047", "Longitude": "93\u00b09'32\"W", "Phone": "(52) 961-615-8287", "State": "Chiapas", "Address": "Carretera a Chicoasen Chiapas Kil\u00f3metro 14 Esquina Paseo de la Roseta Fraccionamiento San Jos\u00e9 Chapultepec", "Latitude": "16\u00b045'50\"N", "Temple": "Tuxtla Guti\u00e9rrez Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-114.4413888888889, 42.586666666666666]}, "type": "Feature", "properties": {"City": "Twin Falls", "Country": "United States", "Postal Code": "83301", "Longitude": "114\u00b026'29\"W", "Phone": "208-736-7070", "State": "Idaho", "Address": "1405 Eastland Drive North", "Latitude": "42\u00b035'12\"N", "Temple": "Twin Falls Idaho Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-122.65777777777778, 49.151111111111106]}, "type": "Feature", "properties": {"City": "Langley", "Country": "Canada", "Postal Code": "V2Y 2A9", "Longitude": "122\u00b039'28\"W", "Phone": "604-513-5933", "State": "British Columbia", "Address": "20370 82nd Avenue", "Latitude": "49\u00b09'4\"N", "Temple": "Vancouver British Columbia Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-96.1061111111111, 19.134166666666665]}, "type": "Feature", "properties": {"City": "Boca del R\u00edo", "Country": "Mexico", "Postal Code": "94290", "Longitude": "96\u00b06'22\"W", "Phone": "(52) 229-922-9621", "State": "Veracruz", "Address": "Avenida Ej\u00e9rcito Mexicano Esquina Michoac\u00e1n Colonia Lu\u00eds Echeverr\u00eda", "Latitude": "19\u00b08'3\"N", "Temple": "Veracruz Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-109.53722222222223, 40.45305555555556]}, "type": "Feature", "properties": {"City": "Vernal", "Country": "United States", "Postal Code": "84078-2536", "Longitude": "109\u00b032'14\"W", "Phone": "435-789-3220", "State": "Utah", "Address": "170 South 400 West", "Latitude": "40\u00b027'11\"N", "Temple": "Vernal Utah Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-92.93722222222223, 17.981111111111108]}, "type": "Feature", "properties": {"City": "Villahermosa", "Country": "Mexico", "Postal Code": "86100", "Longitude": "92\u00b056'14\"W", "Phone": "(52) 993-352-2028", "State": "Tabasco", "Address": "Avenida 27 de Febrero no. 1717 Colonia Atasta de Serra", "Latitude": "17\u00b058'52\"N", "Temple": "Villahermosa Mexico Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-77.06555555555555, 39.013888888888886]}, "type": "Feature", "properties": {"City": "Kensington", "Country": "United States", "Postal Code": "20895-3199", "Longitude": "77\u00b03'56\"W", "Phone": "301-588-0650", "State": "Maryland", "Address": "9900 Stoneybrook Drive", "Latitude": "39\u00b00'50\"N", "Temple": "Washington D.C. Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-97.19500000000001, 49.80027777777777]}, "type": "Feature", "properties": {"City": "Winnipeg", "Country": "Canada", "Postal Code": "", "Longitude": "97\u00b011'42\"W", "Phone": "", "State": "Manitoba", "Address": "", "Latitude": "49\u00b048'1\"N", "Temple": "Winnipeg Manitoba Temple", "marker-size": "small"}}, {"geometry": {"type": "Point", "coordinates": [-95.96611111111112, 41.33388888888889]}, "type": "Feature", "properties": {"City": "Omaha", "Country": "United States", "Postal Code": "68112-2114", "Longitude": "95\u00b057'58\"W", "Phone": "402-453-3406", "State": "Nebraska", "Address": "8283 North 34th Street", "Latitude": "41\u00b020'2\"N", "Temple": "Winter Quarters Nebraska Temple", "marker-size": "small"}}]}
+{
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3566666666666665,
+          5.147500000000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Aba",
+        "Country": "Nigeria",
+        "Postal Code": "",
+        "Longitude": "7\u00b021'24\"E",
+        "Phone": "(234) 803-903-4804",
+        "State": "Abia State",
+        "Address": "Okpu-Umuoba Road Off Aba-Owerri Road at Union Bank",
+        "Latitude": "5\u00b08'51\"N",
+        "Temple": "Aba Nigeria Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1936111111111111,
+          5.567222222222222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Accra",
+        "Country": "Ghana",
+        "Postal Code": "",
+        "Longitude": "-0\u00b011'37\"E",
+        "Phone": "(233) 302-650-113",
+        "State": "",
+        "Address": "57 Independence Avenue North Ridge PMB CT 209 Cantonments",
+        "Latitude": "5\u00b034'2\"N",
+        "Temple": "Accra Ghana Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.635,
+          -34.89222222222222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Marden",
+        "Country": "Australia",
+        "Postal Code": "5070",
+        "Longitude": "138\u00b038'6\"E",
+        "Phone": "(61) 8-8363-8000",
+        "State": "South Australia",
+        "Address": "53-59 Lower Portrush Road",
+        "Latitude": "34\u00b053'32\"S",
+        "Temple": "Adelaide Australia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.52527777777777,
+          35.1675
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Albuquerque",
+        "Country": "United States",
+        "Postal Code": "87122-3437",
+        "Longitude": "106\u00b031'31\"W",
+        "Phone": "505-822-5110",
+        "State": "New Mexico",
+        "Address": "10301 San Francisco Drive NE",
+        "Latitude": "35\u00b010'3\"N",
+        "Temple": "Albuquerque New Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8402777777778,
+          61.10138888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Anchorage",
+        "Country": "United States",
+        "Postal Code": "99516",
+        "Longitude": "149\u00b050'25\"W",
+        "Phone": "907-348-7890",
+        "State": "Alaska",
+        "Address": "13161 Brayton Drive",
+        "Latitude": "61\u00b06'5\"N",
+        "Temple": "Anchorage Alaska Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7827777777778,
+          -13.838055555555556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Pesega",
+        "Country": "Samoa",
+        "Postal Code": "",
+        "Longitude": "171\u00b046'58\"W",
+        "Phone": "(685) 64-230",
+        "State": "Apia",
+        "Address": "Vaitele Street",
+        "Latitude": "13\u00b050'17\"S",
+        "Temple": "Apia Samoa Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53805555555556,
+          -16.374444444444446
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Arequipa",
+        "Country": "Peru",
+        "Postal Code": "",
+        "Longitude": "71\u00b032'17\"W",
+        "Phone": "",
+        "State": "Arequipa",
+        "Address": "",
+        "Latitude": "16\u00b022'28\"S",
+        "Temple": "Arequipa Peru Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.60277777777778,
+          -25.28777777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Asunci\u00f3n",
+        "Country": "Paraguay",
+        "Postal Code": "1441",
+        "Longitude": "57\u00b036'10\"W",
+        "Phone": "(595) 21-230-035",
+        "State": "",
+        "Address": "Esquina Brasilia y Espa\u0144a",
+        "Latitude": "25\u00b017'16\"S",
+        "Temple": "Asunci\u00f3n Paraguay Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36222222222221,
+          33.931666666666665
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Sandy Springs",
+        "Country": "United States",
+        "Postal Code": "30328-4283",
+        "Longitude": "84\u00b021'44\"W",
+        "Phone": "770-393-3698",
+        "State": "Georgia",
+        "Address": "6450 Barfield Road NE",
+        "Latitude": "33\u00b055'54\"N",
+        "Temple": "Atlanta Georgia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.86305555555555,
+          11.016388888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Puerto Colombia",
+        "Country": "Colombia",
+        "Postal Code": "",
+        "Longitude": "74\u00b051'47\"W",
+        "Phone": "",
+        "State": "",
+        "Address": "",
+        "Latitude": "11\u00b00'59\"N",
+        "Temple": "Barranquilla Colombia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.10833333333333,
+          30.3625
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Baton Rouge",
+        "Country": "United States",
+        "Postal Code": "70810",
+        "Longitude": "91\u00b06'30\"W",
+        "Phone": "225-769-1197",
+        "State": "Louisiana",
+        "Address": "10339 Highland Road",
+        "Latitude": "30\u00b021'45\"N",
+        "Temple": "Baton Rouge Louisiana Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.458055555555556,
+          47.00194444444445
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Zollikofen",
+        "Country": "Switzerland",
+        "Postal Code": "CH-3052",
+        "Longitude": "7\u00b027'29\"E",
+        "Phone": "(41) 31-915-5252",
+        "State": "Bern",
+        "Address": "Tempelstrasse 2",
+        "Latitude": "47\u00b00'7\"N",
+        "Temple": "Bern Switzerland Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.63916666666667,
+          45.80027777777777
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Billings",
+        "Country": "United States",
+        "Postal Code": "59106-1386",
+        "Longitude": "108\u00b038'21\"W",
+        "Phone": "406-655-0607",
+        "State": "Montana",
+        "Address": "3100 Rim Point Drive",
+        "Latitude": "45\u00b048'1\"N",
+        "Temple": "Billings Montana Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.82111111111111,
+          33.67444444444444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Gardendale",
+        "Country": "United States",
+        "Postal Code": "35071",
+        "Longitude": "86\u00b049'16\"W",
+        "Phone": "205-631-3444",
+        "State": "Alabama",
+        "Address": "1927 Mount Olive Boulevard",
+        "Latitude": "33\u00b040'28\"N",
+        "Temple": "Birmingham Alabama Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.81388888888888,
+          46.83888888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Bismarck",
+        "Country": "United States",
+        "Postal Code": "58503",
+        "Longitude": "100\u00b048'50\"W",
+        "Phone": "701-258-9590",
+        "State": "North Dakota",
+        "Address": "2930 Cody Drive",
+        "Latitude": "46\u00b050'20\"N",
+        "Temple": "Bismarck North Dakota Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05611111111111,
+          4.707777777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Bogot\u00e1",
+        "Country": "Colombia",
+        "Postal Code": "",
+        "Longitude": "74\u00b03'22\"W",
+        "Phone": "(57) 1-625-8000",
+        "State": "Distrito Capital",
+        "Address": "Carrera 46 no. 127?45",
+        "Latitude": "4\u00b042'28\"N",
+        "Temple": "Bogot\u00e1 Colombia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.275,
+          43.593333333333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Boise",
+        "Country": "United States",
+        "Postal Code": "83709-1871",
+        "Longitude": "116\u00b016'30\"W",
+        "Phone": "208-322-4422",
+        "State": "Idaho",
+        "Address": "1211 South Cole Road",
+        "Latitude": "43\u00b035'36\"N",
+        "Temple": "Boise Idaho Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18805555555556,
+          42.411944444444444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Belmont",
+        "Country": "United States",
+        "Postal Code": "02478-2135",
+        "Longitude": "71\u00b011'17\"W",
+        "Phone": "617-993-9993",
+        "State": "Massachusetts",
+        "Address": "86 Frontage Road",
+        "Latitude": "42\u00b024'43\"N",
+        "Temple": "Boston Massachusetts Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.84666666666666,
+          40.882777777777775
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Bountiful",
+        "Country": "United States",
+        "Postal Code": "84010-1394",
+        "Longitude": "111\u00b050'48\"W",
+        "Phone": "801-296-2100",
+        "State": "Utah",
+        "Address": "640 South Bountiful Boulevard",
+        "Latitude": "40\u00b052'58\"N",
+        "Temple": "Bountiful Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.01638888888888,
+          41.50527777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Brigham City",
+        "Country": "United States",
+        "Postal Code": "84302-2120",
+        "Longitude": "112\u00b00'59\"W",
+        "Phone": "435-695-2170",
+        "State": "Utah",
+        "Address": "250 South Main Street",
+        "Latitude": "41\u00b030'19\"N",
+        "Temple": "Brigham City Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0336111111111,
+          -27.480833333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Kangaroo Point",
+        "Country": "Australia",
+        "Postal Code": "4169",
+        "Longitude": "153\u00b02'1\"E",
+        "Phone": "(61) 7-3240-3600",
+        "State": "Queensland",
+        "Address": "200 River Terrace",
+        "Latitude": "27\u00b028'51\"S",
+        "Temple": "Brisbane Australia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.518055555555556,
+          -34.72916666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Buenos Aires",
+        "Country": "Argentina",
+        "Postal Code": "B1778 DUA",
+        "Longitude": "58\u00b031'5\"W",
+        "Phone": "(54) 11-4487-1848",
+        "State": "",
+        "Address": "Autopista Richieri y Puente 13 Ciudad Evita",
+        "Latitude": "34\u00b043'45\"S",
+        "Temple": "Buenos Aires Argentina Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.23305555555555,
+          51.14083333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Calgary",
+        "Country": "Canada",
+        "Postal Code": "T3G 5J7",
+        "Longitude": "114\u00b013'59\"W",
+        "Phone": "403-241-4250",
+        "State": "Alberta",
+        "Address": "9802 Rocky Ridge Road NW",
+        "Latitude": "51\u00b08'27\"N",
+        "Temple": "Calgary Alberta Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00111111111111,
+          -22.89638888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Campinas",
+        "Country": "Brazil",
+        "Postal Code": "13092-820",
+        "Longitude": "47\u00b00'4\"W",
+        "Phone": "(55) 19-2102-5800",
+        "State": "S\u0103o Paulo",
+        "Address": "Rua James Esdras Faust 400 Notre Dame",
+        "Latitude": "22\u00b053'47\"S",
+        "Temple": "Campinas Brazil Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.83722222222222,
+          10.470833333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Caracas",
+        "Country": "Venezuela",
+        "Postal Code": "1062-A",
+        "Longitude": "66\u00b050'14\"W",
+        "Phone": "(58) 212-985-9123",
+        "State": "Distrito Federal",
+        "Address": "Avenida C con Calle C-1 Urbanizaci\u00f3n Caurimare",
+        "Latitude": "10\u00b028'15\"N",
+        "Temple": "Caracas Venezuela Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.30916666666667,
+          49.19833333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Cardston",
+        "Country": "Canada",
+        "Postal Code": "T0K 0K0",
+        "Longitude": "113\u00b018'33\"W",
+        "Phone": "403-653-3552",
+        "State": "Alberta",
+        "Address": "348 3rd Street West",
+        "Latitude": "49\u00b011'54\"N",
+        "Temple": "Cardston Alberta Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.89805555555556,
+          10.3275
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Cebu City",
+        "Country": "Philippines",
+        "Postal Code": " 6000",
+        "Longitude": "123\u00b053'53\"E",
+        "Phone": "(63) 32-230-1207",
+        "State": "Cebu",
+        "Address": "Gorordo Avenue Barangay Lahug",
+        "Latitude": "10\u00b019'39\"N",
+        "Temple": "Cebu City Philippines Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.09583333333333,
+          37.67305555555555
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Cedar City",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "113\u00b05'45\"W",
+        "Phone": "",
+        "State": "Utah",
+        "Address": "300 S Cove Dr",
+        "Latitude": "37\u00b040'23\"N",
+        "Temple": "Cedar City Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85944444444443,
+          42.086666666666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Glenview",
+        "Country": "United States",
+        "Postal Code": "60025-1240",
+        "Longitude": "87\u00b051'34\"W",
+        "Phone": "847-299-6500",
+        "State": "Illinois",
+        "Address": "4151 West Lake Avenue",
+        "Latitude": "42\u00b05'12\"N",
+        "Temple": "Chicago Illinois Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.46305555555556,
+          31.73611111111111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Ciudad Ju\u00e1rez",
+        "Country": "Mexico",
+        "Postal Code": "32177",
+        "Longitude": "106\u00b027'47\"W",
+        "Phone": "(52) 656-611-5146",
+        "State": "Chihuahua",
+        "Address": "Calle Paraguay no. 2900 Esquina Jos\u00e9 Borunda Colonia Partido Romero",
+        "Latitude": "31\u00b044'10\"N",
+        "Temple": "Ciudad Ju\u00e1rez Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.14750000000001,
+          -17.363611111111112
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Cochabamba",
+        "Country": "Bolivia",
+        "Postal Code": "",
+        "Longitude": "66\u00b08'51\"W",
+        "Phone": "(591) 4-429-3161",
+        "State": "Cochabamba",
+        "Address": "Avenida Melchor Urquidi 1500 Alto Queru Queru",
+        "Latitude": "17\u00b021'49\"S",
+        "Temple": "Cochabamba Bolivia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.08194444444445,
+          30.305
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Colonia Ju\u00e1rez",
+        "Country": "Mexico",
+        "Postal Code": "31857",
+        "Longitude": "108\u00b04'55\"W",
+        "Phone": "(52) 636-695-0144",
+        "State": "Chihuahua",
+        "Address": "Calles Chihuahua y D\u00edaz",
+        "Latitude": "30\u00b018'18\"N",
+        "Temple": "Colonia Ju\u00e1rez Chihuahua Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.27472222222222,
+          46.22666666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Richland",
+        "Country": "United States",
+        "Postal Code": "99352",
+        "Longitude": "119\u00b016'29\"W",
+        "Phone": "509-628-0990",
+        "State": "Washington",
+        "Address": "969 Gage Boulevard",
+        "Latitude": "46\u00b013'36\"N",
+        "Temple": "Columbia River Washington Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8938888888889,
+          33.95944444444445
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Hopkins",
+        "Country": "United States",
+        "Postal Code": "29061-9573",
+        "Longitude": "80\u00b053'38\"W",
+        "Phone": "803-647-9472",
+        "State": "South Carolina",
+        "Address": "2905 Trotter Road",
+        "Latitude": "33\u00b057'34\"N",
+        "Temple": "Columbia South Carolina Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.11305555555555,
+          39.99388888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Columbus",
+        "Country": "United States",
+        "Postal Code": "43228",
+        "Longitude": "83\u00b06'47\"W",
+        "Phone": "614-351-5001",
+        "State": "Ohio",
+        "Address": "3870 Gateway Boulevard",
+        "Latitude": "39\u00b059'38\"N",
+        "Temple": "Columbus Ohio Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.04972222222221,
+          -36.85138888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Concepci\u00f3n",
+        "Country": "Chile",
+        "Postal Code": "",
+        "Longitude": "73\u00b02'59\"W",
+        "Phone": "",
+        "State": "B\u00edo-B\u00edo",
+        "Address": "1525 Pedro de Valdivia",
+        "Latitude": "36\u00b051'5\"S",
+        "Temple": "Concepci\u00f3n Chile Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.533888888888889,
+          55.692499999999995
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Frederiksberg",
+        "Country": "Denmark",
+        "Postal Code": "DK-2000",
+        "Longitude": "12\u00b032'2\"E",
+        "Phone": "(45) 38-18-1818",
+        "State": "",
+        "Address": "Priorvej 12",
+        "Latitude": "55\u00b041'33\"N",
+        "Temple": "Copenhagen Denmark Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.24555555555555,
+          -31.358611111111113
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "C\u00f3rdoba",
+        "Country": "Argentina",
+        "Postal Code": "",
+        "Longitude": "64\u00b014'44\"W",
+        "Phone": "(54) 3543-40-6200",
+        "State": "",
+        "Address": "Avenida Pedro Sim\u00f3n Laplace 5637 Villa Belgrano",
+        "Latitude": "31\u00b021'31\"S",
+        "Temple": "C\u00f3rdoba Argentina Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.341944444444444,
+          -25.441111111111113
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Curitiba",
+        "Country": "Brazil",
+        "Postal Code": "81200-110",
+        "Longitude": "49\u00b020'31\"W",
+        "Phone": "(55) 41-3204-6650",
+        "State": "Paran\u00e1",
+        "Address": "Rua Deputado Heitor Alencar Furtado 3641 Mossungu\u0119",
+        "Latitude": "25\u00b026'28\"S",
+        "Temple": "Curitiba Brazil Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.79638888888888,
+          32.91416666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Dallas",
+        "Country": "United States",
+        "Postal Code": "75230-2227",
+        "Longitude": "96\u00b047'47\"W",
+        "Phone": "972-991-1273",
+        "State": "Texas",
+        "Address": "6363 Willow Lane",
+        "Latitude": "32\u00b054'51\"N",
+        "Temple": "Dallas Texas Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.96555555555555,
+          39.56861111111112
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Centennial",
+        "Country": "United States",
+        "Postal Code": "80122",
+        "Longitude": "104\u00b057'56\"W",
+        "Phone": "303-730-0220",
+        "State": "Colorado",
+        "Address": "2001 East Phillips Circle",
+        "Latitude": "39\u00b034'7\"N",
+        "Temple": "Denver Colorado Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22972222222222,
+          42.566111111111105
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Bloomfield Hills",
+        "Country": "United States",
+        "Postal Code": "48304",
+        "Longitude": "83\u00b013'47\"W",
+        "Phone": "248-593-0690",
+        "State": "Michigan",
+        "Address": "37425 Woodward Avenue",
+        "Latitude": "42\u00b033'58\"N",
+        "Temple": "Detroit Michigan Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.84055555555555,
+          40.49583333333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Draper",
+        "Country": "United States",
+        "Postal Code": "84020-5626",
+        "Longitude": "111\u00b050'26\"W",
+        "Phone": "801-576-4240",
+        "State": "Utah",
+        "Address": "14065 Canyon Vista Lane",
+        "Latitude": "40\u00b029'45\"N",
+        "Temple": "Draper Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.57027777777778,
+          53.489444444444445
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Edmonton",
+        "Country": "Canada",
+        "Postal Code": "T6H 5G6",
+        "Longitude": "113\u00b034'13\"W",
+        "Phone": "780-434-7436",
+        "State": "Alberta",
+        "Address": "14325 53rd Avenue NW",
+        "Latitude": "53\u00b029'22\"N",
+        "Temple": "Edmonton Alberta Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.03861111111111,
+          40.494166666666665
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Fort Collins",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "105\u00b02'19\"W",
+        "Phone": "",
+        "State": "Colorado",
+        "Address": "Southeast corner of Trilby Road and Timberline Road",
+        "Latitude": "40\u00b029'39\"N",
+        "Temple": "Fort Collins Colorado Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35555555555555,
+          26.070833333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Davie",
+        "Country": "United States",
+        "Postal Code": "33331",
+        "Longitude": "80\u00b021'20\"W",
+        "Phone": "954-382-8390",
+        "State": "Florida",
+        "Address": "3901 SW 154th Avenue",
+        "Latitude": "26\u00b04'15\"N",
+        "Temple": "Fort Lauderdale Florida Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.46083333333333,
+          -3.747777777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Fortaleza",
+        "Country": "Brazil",
+        "Postal Code": "",
+        "Longitude": "38\u00b027'39\"W",
+        "Phone": "",
+        "State": "Cear\u00e1",
+        "Address": "Avenida Santos Dumont esq Rua Mal. Mascarenhas Morais",
+        "Latitude": "3\u00b044'52\"S",
+        "Temple": "Fortaleza Brazil Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64111111111111,
+          50.25805555555556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Friedrichsdorf",
+        "Country": "Germany",
+        "Postal Code": "DE-61381",
+        "Longitude": "8\u00b038'28\"E",
+        "Phone": "(49) 6172-59000",
+        "State": "Hessen",
+        "Address": "Talstrasse 10",
+        "Latitude": "50\u00b015'29\"N",
+        "Temple": "Frankfurt Germany Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3225,
+          50.92222222222222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Freiberg",
+        "Country": "Germany",
+        "Postal Code": "DE-09599",
+        "Longitude": "13\u00b019'21\"E",
+        "Phone": "(49) 3731-35960",
+        "State": "Sachsen",
+        "Address": "Hainichener Strasse 64",
+        "Latitude": "50\u00b055'20\"N",
+        "Temple": "Freiberg Germany Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.85277777777777,
+          36.82805555555556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Fresno",
+        "Country": "United States",
+        "Postal Code": "93711",
+        "Longitude": "119\u00b051'10\"W",
+        "Phone": "559-437-9451",
+        "State": "California",
+        "Address": "6290 North Valentine Avenue",
+        "Latitude": "36\u00b049'41\"N",
+        "Temple": "Fresno California Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.39166666666665,
+          33.572500000000005
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Fukuoka-shi",
+        "Country": "Japan",
+        "Postal Code": "810-0029",
+        "Longitude": "130\u00b023'30\"E",
+        "Phone": "(81) 92-525-8255",
+        "State": "Fukuoka-ken",
+        "Address": "9-15 Hirao Johsui Machi Chuo-ku",
+        "Latitude": "33\u00b034'21\"N",
+        "Temple": "Fukuoka Japan Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.78972222222222,
+          32.86277777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Central",
+        "Country": "United States",
+        "Postal Code": "85531",
+        "Longitude": "109\u00b047'23\"W",
+        "Phone": "928-428-7243",
+        "State": "Arizona",
+        "Address": "5291 West Highway 70",
+        "Latitude": "32\u00b051'46\"N",
+        "Temple": "The Gila Valley Arizona Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.73722222222223,
+          33.29111111111111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Gilbert",
+        "Country": "United States",
+        "Postal Code": "85297",
+        "Longitude": "111\u00b044'14\"W",
+        "Phone": "480-822-5000",
+        "State": "Arizona",
+        "Address": "3301 S Greenfield Rd",
+        "Latitude": "33\u00b017'28\"N",
+        "Temple": "Gilbert Arizona Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.42305555555556,
+          20.661388888888887
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Zapop\u00e1n",
+        "Country": "Mexico",
+        "Postal Code": "45030",
+        "Longitude": "103\u00b025'23\"W",
+        "Phone": "(52) 333-125-1283",
+        "State": "Jalisco",
+        "Address": "Avenida Patria no. 879 Fraccionamiento Jardines Tepeyac",
+        "Latitude": "20\u00b039'41\"N",
+        "Temple": "Guadalajara Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.48555555555555,
+          14.583055555555555
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Guatemala City",
+        "Country": "Guatemala",
+        "Postal Code": "",
+        "Longitude": "90\u00b029'8\"W",
+        "Phone": "(502) 2329-8300",
+        "State": "Guatemala",
+        "Address": "24 Avenida 2-20 Zona 15 Vista Hermosa 1",
+        "Latitude": "14\u00b034'59\"N",
+        "Temple": "Guatemala City Guatemala Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90472222222223,
+          -2.156111111111111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Urdesa Norte",
+        "Country": "Ecuador",
+        "Postal Code": "",
+        "Longitude": "79\u00b054'17\"W",
+        "Phone": "(593) 4-288-9388",
+        "State": "Guayaquil",
+        "Address": "Calle 6ta y Avenida Rodrigo Ch\u00e1vez Gonz\u00e1lez Principado de las Lomas",
+        "Latitude": "2\u00b09'22\"S",
+        "Temple": "Guayaquil Ecuador Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.48888888888889,
+          44.66972222222222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Dartmouth",
+        "Country": "Canada",
+        "Postal Code": "B2V 1P1",
+        "Longitude": "63\u00b029'20\"W",
+        "Phone": "902-434-6920",
+        "State": "Nova Scotia",
+        "Address": "44 Cumberland Drive",
+        "Latitude": "44\u00b040'11\"N",
+        "Temple": "Halifax Nova Scotia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.22472222222223,
+          -37.82638888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Hamilton",
+        "Country": "New Zealand",
+        "Postal Code": "3218",
+        "Longitude": "175\u00b013'29\"E",
+        "Phone": "(64) 7-846-2750",
+        "State": "",
+        "Address": "509 Tuhikaramea Road Temple View",
+        "Latitude": "37\u00b049'35\"S",
+        "Temple": "Hamilton New Zealand Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.84444444444443,
+          41.737500000000004
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Farmington",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "72\u00b050'40\"W",
+        "Phone": "",
+        "State": "Connecticut",
+        "Address": "Corner of Farmington Ave and Melrose Dr",
+        "Latitude": "41\u00b044'15\"N",
+        "Temple": "Hartford Connecticut Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.781666666666666,
+          60.225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Espoo",
+        "Country": "Finland",
+        "Postal Code": "FI-02620",
+        "Longitude": "24\u00b046'54\"E",
+        "Phone": "(358) 9-8493-710 ",
+        "State": "",
+        "Address": "Lepp\u00e4sillantie 3",
+        "Latitude": "60\u00b013'30\"N",
+        "Temple": "Helsinki Finland Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.94666666666667,
+          29.102500000000003
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Hermosillo",
+        "Country": "Mexico",
+        "Postal Code": "83150",
+        "Longitude": "110\u00b056'48\"W",
+        "Phone": "(52) 662-210-5660",
+        "State": "Sonora",
+        "Address": "General Pedro Garc\u00eda Conde no. 303 Esquina Con Juan Jos\u00e9 R\u00edos Colonia Pitic",
+        "Latitude": "29\u00b06'9\"N",
+        "Temple": "Hermosillo Sonora Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17722222222223,
+          22.340277777777775
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Kowloon City",
+        "Country": "Hong Kong",
+        "Postal Code": "",
+        "Longitude": "114\u00b010'38\"E",
+        "Phone": "(852) 2339-8100",
+        "State": "",
+        "Address": "2 Cornwall Street Kowloon Tong",
+        "Latitude": "22\u00b020'25\"N",
+        "Temple": "Hong Kong China Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.53277777777778,
+          29.999722222222225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Spring",
+        "Country": "United States",
+        "Postal Code": "77379-7036",
+        "Longitude": "95\u00b031'58\"W",
+        "Phone": "281-376-6804",
+        "State": "Texas",
+        "Address": "15725 Champion Forest Drive",
+        "Latitude": "29\u00b059'59\"N",
+        "Temple": "Houston Texas Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.04138888888889,
+          43.499722222222225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Idaho Falls",
+        "Country": "United States",
+        "Postal Code": "83402-3497",
+        "Longitude": "112\u00b02'29\"W",
+        "Phone": "208-522-7669",
+        "State": "Idaho",
+        "Address": "1000 Memorial Drive",
+        "Latitude": "43\u00b029'59\"N",
+        "Temple": "Idaho Falls Idaho Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16555555555556,
+          39.955555555555556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Carmel",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "86\u00b09'56\"W",
+        "Phone": "",
+        "State": "Indiana",
+        "Address": "11565 Temple Dr",
+        "Latitude": "39\u00b057'20\"N",
+        "Temple": "Indianapolis Indiana Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.039166666666667,
+          -26.17777777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Johannesburg",
+        "Country": "South Africa",
+        "Postal Code": "2193",
+        "Longitude": "28\u00b02'21\"E",
+        "Phone": "(27) 11-645-1540",
+        "State": "",
+        "Address": "7 Jubilee Road Parktown",
+        "Latitude": "26\u00b010'40\"S",
+        "Temple": "Johannesburg South Africa Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93138888888889,
+          40.566111111111105
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "South Jordan",
+        "Country": "United States",
+        "Postal Code": "84095-8814",
+        "Longitude": "111\u00b055'53\"W",
+        "Phone": "801-254-3003",
+        "State": "Utah",
+        "Address": "10200 South 1300 West",
+        "Latitude": "40\u00b033'58\"N",
+        "Temple": "Jordan River Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.50111111111111,
+          39.22027777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Kansas City",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "94\u00b030'4\"W",
+        "Phone": "816-413-1430",
+        "State": "Missouri",
+        "Address": "7001 Searcy Creek Parkway",
+        "Latitude": "39\u00b013'13\"N",
+        "Temple": "Kansas City Missouri Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.273611111111112,
+          -4.3277777777777775
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Kinshasa",
+        "Country": "Democratic Republic of Congo",
+        "Postal Code": "",
+        "Longitude": "15\u00b016'25\"E",
+        "Phone": "",
+        "State": "",
+        "Address": "",
+        "Latitude": "4\u00b019'40\"S",
+        "Temple": "Kinshasa Democratic Republic of the Congo Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.98527777777775,
+          19.641388888888887
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Kailua Kona",
+        "Country": "United States",
+        "Postal Code": "96740-1833",
+        "Longitude": "155\u00b059'7\"W",
+        "Phone": "808-331-8504",
+        "State": "Hawaii",
+        "Address": "75-230 Kalani Street",
+        "Latitude": "19\u00b038'29\"N",
+        "Temple": "Kona Hawaii Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.395555555555553,
+          50.404444444444444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Kyevo-Sviatoshyns'ky Rayon",
+        "Country": "Ukraine",
+        "Postal Code": "18131",
+        "Longitude": "30\u00b023'44\"E",
+        "Phone": "(380) 44-371-4088",
+        "State": "Kyivs'ka Oblast",
+        "Address": "1 Yabluneva Street v. Sofiivs'ka Borshchagivka",
+        "Latitude": "50\u00b024'16\"N",
+        "Temple": "Kyiv Ukraine Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.93055555555554,
+          21.646944444444443
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Laie",
+        "Country": "United States",
+        "Postal Code": "96762-1299",
+        "Longitude": "157\u00b055'50\"W",
+        "Phone": "808-293-2427",
+        "State": "Hawaii",
+        "Address": "55-600 Naniloa Loop",
+        "Latitude": "21\u00b038'49\"N",
+        "Temple": "Laie Hawaii Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.02,
+          36.17444444444444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Las Vegas",
+        "Country": "United States",
+        "Postal Code": "89110-2920",
+        "Longitude": "115\u00b01'12\"W",
+        "Phone": "702-452-5011",
+        "State": "Nevada",
+        "Address": "827 Temple View Drive",
+        "Latitude": "36\u00b010'28\"N",
+        "Temple": "Las Vegas Nevada Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94888888888889,
+          -12.069444444444445
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Lima",
+        "Country": "Peru",
+        "Postal Code": "12",
+        "Longitude": "76\u00b056'56\"W",
+        "Phone": "(51) 1-612-7200",
+        "State": "Lima",
+        "Address": "Calle Saint Tropez N\u00b0 140  Urb. La Riviera de Monterrico La Molina",
+        "Latitude": "12\u00b04'10\"S",
+        "Temple": "Lima Peru Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.173888888888888,
+          38.77611111111111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Lisbon",
+        "Country": "Portugal",
+        "Postal Code": "",
+        "Longitude": "9\u00b010'26\"W",
+        "Phone": "",
+        "State": "",
+        "Address": "",
+        "Latitude": "38\u00b046'34\"N",
+        "Temple": "Lisbon Portugal Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.82777777777777,
+          41.73388888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Logan",
+        "Country": "United States",
+        "Postal Code": "84321-4720",
+        "Longitude": "111\u00b049'40\"W",
+        "Phone": "435-752-3611",
+        "State": "Utah",
+        "Address": "175 North 300 East",
+        "Latitude": "41\u00b044'2\"N",
+        "Temple": "Logan Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.051944444444444446,
+          51.1625
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Newchapel",
+        "Country": "United Kingdom",
+        "Postal Code": "RH7 6HW",
+        "Longitude": "-0\u00b03'7\"E",
+        "Phone": "(44) 1342-832759",
+        "State": "",
+        "Address": "West Park Road",
+        "Latitude": "51\u00b09'45\"N",
+        "Temple": "London England Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.43388888888889,
+          34.05277777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Los Angeles",
+        "Country": "United States",
+        "Postal Code": "90025-4718",
+        "Longitude": "118\u00b026'2\"W",
+        "Phone": "310-474-5569",
+        "State": "California",
+        "Address": "10777 Santa Monica Boulevard",
+        "Latitude": "34\u00b03'10\"N",
+        "Temple": "Los Angeles California Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48861111111111,
+          38.321111111111115
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Crestwood",
+        "Country": "United States",
+        "Postal Code": "40014",
+        "Longitude": "85\u00b029'19\"W",
+        "Phone": "502-241-4115",
+        "State": "Kentucky",
+        "Address": "7116 West Highway 22",
+        "Latitude": "38\u00b019'16\"N",
+        "Temple": "Louisville Kentucky Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9413888888889,
+          33.528888888888886
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Lubbock",
+        "Country": "United States",
+        "Postal Code": "79424",
+        "Longitude": "101\u00b056'29\"W",
+        "Phone": "806-794-0774",
+        "State": "Texas",
+        "Address": "7016 Frankford Avenue",
+        "Latitude": "33\u00b031'44\"N",
+        "Temple": "Lubbock Texas Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.631388888888889,
+          40.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Madrid",
+        "Country": "Spain",
+        "Postal Code": "ES-28030",
+        "Longitude": "3\u00b037'53\"W",
+        "Phone": "(34) 91-301-7607",
+        "State": "",
+        "Address": "Calle del Templo no. 2",
+        "Latitude": "40\u00b024'0\"N",
+        "Temple": "Madrid Spain Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.08916666666667,
+          -3.073888888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Manaus",
+        "Country": "Brazil",
+        "Postal Code": "",
+        "Longitude": "60\u00b05'21\"W",
+        "Phone": "(55) 92-3212-7270",
+        "State": "Amazonas",
+        "Address": "Avenida Coronel Texeira 3162 Ponta Negra",
+        "Latitude": "3\u00b04'26\"S",
+        "Temple": "Manaus Brazil Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98138888888889,
+          40.77305555555555
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "New York",
+        "Country": "United States",
+        "Postal Code": "10023-6514",
+        "Longitude": "73\u00b058'53\"W",
+        "Phone": "917-441-8220",
+        "State": "New York",
+        "Address": "125 Columbus Avenue",
+        "Latitude": "40\u00b046'23\"N",
+        "Temple": "Manhattan New York Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.06972222222223,
+          14.601111111111111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Quezon City",
+        "Country": "Philippines",
+        "Postal Code": "1110",
+        "Longitude": "121\u00b04'11\"E",
+        "Phone": "(63) 2-635-0954",
+        "State": "Metro Manila",
+        "Address": "13 Temple Drive Greenmeadows Subdivision",
+        "Latitude": "14\u00b036'4\"N",
+        "Temple": "Manila Philippines Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.63361111111112,
+          39.272777777777776
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Manti",
+        "Country": "United States",
+        "Postal Code": "84642",
+        "Longitude": "111\u00b038'1\"W",
+        "Phone": "435-835-2291",
+        "State": "Utah",
+        "Address": "Temple Hill",
+        "Latitude": "39\u00b016'22\"N",
+        "Temple": "Manti Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9325,
+          42.37305555555555
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Central Point",
+        "Country": "United States",
+        "Postal Code": "97502",
+        "Longitude": "122\u00b055'57\"W",
+        "Phone": "541-664-2050",
+        "State": "Oregon",
+        "Address": "3900 Grant Road",
+        "Latitude": "42\u00b022'23\"N",
+        "Temple": "Medford Oregon Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.21249999999998,
+          -37.868611111111115
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Wantirna South",
+        "Country": "Australia",
+        "Postal Code": "3152",
+        "Longitude": "145\u00b012'45\"E",
+        "Phone": "(61) 03-9881-9700",
+        "State": "Victoria",
+        "Address": "76 Cathies Lane",
+        "Latitude": "37\u00b052'7\"S",
+        "Temple": "Melbourne Australia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.83916666666666,
+          35.24055555555556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Bartlett",
+        "Country": "United States",
+        "Postal Code": "38135",
+        "Longitude": "89\u00b050'21\"W",
+        "Phone": "901-379-0202",
+        "State": "Tennessee",
+        "Address": "4199 Kirby-Whitten Parkway",
+        "Latitude": "35\u00b014'26\"N",
+        "Temple": "Memphis Tennessee Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63083333333333,
+          20.965555555555554
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "M\u00e9rida",
+        "Country": "Mexico",
+        "Postal Code": "97000",
+        "Longitude": "89\u00b037'51\"W",
+        "Phone": "(52) 999-928-1643",
+        "State": "Yucat\u00e1n",
+        "Address": "Calle 70 no. 527 Esquina 65 y 67 Colonia Centro",
+        "Latitude": "20\u00b057'56\"N",
+        "Temple": "M\u00e9rida Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.415,
+          43.670833333333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Meridian",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "116\u00b024'54\"W",
+        "Phone": "",
+        "State": "Idaho",
+        "Address": "7345 North Linder Road",
+        "Latitude": "43\u00b040'15\"N",
+        "Temple": "Meridian Idaho Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.81944444444444,
+          33.41277777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Mesa",
+        "Country": "United States",
+        "Postal Code": "85204-1031",
+        "Longitude": "111\u00b049'10\"W",
+        "Phone": "480-833-1211",
+        "State": "Arizona",
+        "Address": "101 South LeSueur",
+        "Latitude": "33\u00b024'46\"N",
+        "Temple": "Mesa Arizona Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.08666666666666,
+          19.465833333333332
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "M\u00e9xico City",
+        "Country": "Mexico",
+        "Postal Code": "07950",
+        "Longitude": "99\u00b05'12\"W",
+        "Phone": "(52) 55-5003-3734",
+        "State": "Distrito Federal",
+        "Address": "Avenida 510 no. 90 Colonia San Juan de Arag\u00f3n",
+        "Latitude": "19\u00b027'57\"N",
+        "Temple": "Mexico City Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.25972222222222,
+          25.589166666666664
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Monterrey",
+        "Country": "Mexico",
+        "Postal Code": "64989",
+        "Longitude": "100\u00b015'35\"W",
+        "Phone": "(52) 818-104-0635",
+        "State": "Nuevo Le\u00f3n",
+        "Address": "Avenida Eugenio Garza Sada Esquina Privada Valle de la Estanzuela Colonia Valle Alto",
+        "Latitude": "25\u00b035'21\"N",
+        "Temple": "Monterrey Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.073888888888895,
+          -34.888333333333335
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Montevideo",
+        "Country": "Uruguay",
+        "Postal Code": "11500",
+        "Longitude": "56\u00b04'26\"W",
+        "Phone": "(598) 2-604-2212",
+        "State": "",
+        "Address": "Bolonia 1722 Carrasco",
+        "Latitude": "34\u00b053'18\"S",
+        "Temple": "Montevideo Uruguay Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.34694444444445,
+          37.87777777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Monticello",
+        "Country": "United States",
+        "Postal Code": "84535",
+        "Longitude": "109\u00b020'49\"W",
+        "Phone": "435-587-3500",
+        "State": "Utah",
+        "Address": "365 North 200 West",
+        "Latitude": "37\u00b052'40\"N",
+        "Temple": "Monticello Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.49055555555556,
+          45.56333333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Longueuil",
+        "Country": "Canada",
+        "Postal Code": "J4G 1A4",
+        "Longitude": "73\u00b029'26\"W",
+        "Phone": "450-646-5775",
+        "State": "Quebec",
+        "Address": "1450 Boulevard Marie-Victorin",
+        "Latitude": "45\u00b033'48\"N",
+        "Temple": "Montreal Quebec Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.77027777777778,
+          40.393055555555556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "American Fork",
+        "Country": "United States",
+        "Postal Code": "84003-9124",
+        "Longitude": "111\u00b046'13\"W",
+        "Phone": "801-763-4540",
+        "State": "Utah",
+        "Address": "742 North 900 East",
+        "Latitude": "40\u00b023'35\"N",
+        "Temple": "Mount Timpanogos Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.86027777777777,
+          35.948611111111106
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Franklin",
+        "Country": "United States",
+        "Postal Code": "37069",
+        "Longitude": "86\u00b051'37\"W",
+        "Phone": "615-791-8668",
+        "State": "Tennessee",
+        "Address": "1100 Gray Fox Lane",
+        "Latitude": "35\u00b056'55\"N",
+        "Temple": "Nashville Tennessee Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.38416666666667,
+          40.55027777777777
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Nauvoo",
+        "Country": "United States",
+        "Postal Code": "62354",
+        "Longitude": "91\u00b023'3\"W",
+        "Phone": "217-453-6252",
+        "State": "Illinois",
+        "Address": "50 North Wells Street",
+        "Latitude": "40\u00b033'1\"N",
+        "Temple": "Nauvoo Illinois Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.84861111111111,
+          33.629444444444445
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Newport Beach",
+        "Country": "United States",
+        "Postal Code": "92660-9118",
+        "Longitude": "117\u00b050'55\"W",
+        "Phone": "949-644-1820",
+        "State": "California",
+        "Address": "2300 Bonita Canyon Drive",
+        "Latitude": "33\u00b037'46\"N",
+        "Temple": "Newport Beach California Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.27222222222224,
+          -21.162499999999998
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Nuku'alofa",
+        "Country": "Tonga",
+        "Postal Code": "",
+        "Longitude": "175\u00b016'20\"W",
+        "Phone": "(676) 20-300",
+        "State": "Tongatapu",
+        "Address": "Loto Road Liahona",
+        "Latitude": "21\u00b09'45\"S",
+        "Temple": "Nuku'alofa Tonga Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19888888888889,
+          37.80777777777777
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Oakland",
+        "Country": "United States",
+        "Postal Code": "94602-2535",
+        "Longitude": "122\u00b011'56\"W",
+        "Phone": "510-531-3200",
+        "State": "California",
+        "Address": "4770 Lincoln Avenue",
+        "Latitude": "37\u00b048'28\"N",
+        "Temple": "Oakland California Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.71333333333334,
+          17.04138888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Oaxaca",
+        "Country": "Mexico",
+        "Postal Code": "68130",
+        "Longitude": "96\u00b042'48\"W",
+        "Phone": "(52) 951-516-9588",
+        "State": "Oaxaca",
+        "Address": "Avenida Universidad no. 139 Fraccionamiento Real de Candiani",
+        "Latitude": "17\u00b02'29\"N",
+        "Temple": "Oaxaca Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9713888888889,
+          41.22777777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Ogden",
+        "Country": "United States",
+        "Postal Code": "84401-1487",
+        "Longitude": "111\u00b058'17\"W",
+        "Phone": "801-621-6880",
+        "State": "Utah",
+        "Address": "350 22nd Street",
+        "Latitude": "41\u00b013'40\"N",
+        "Temple": "Ogden Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72666666666667,
+          35.59166666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Yukon",
+        "Country": "United States",
+        "Postal Code": "73099",
+        "Longitude": "97\u00b043'36\"W",
+        "Phone": "405-373-2309",
+        "State": "Oklahoma",
+        "Address": "12030 North Mustang Road",
+        "Latitude": "35\u00b035'30\"N",
+        "Temple": "Oklahoma City Oklahoma Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9875,
+          40.551111111111105
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "South Jordan",
+        "Country": "United States",
+        "Postal Code": "84095-5797",
+        "Longitude": "111\u00b059'15\"W",
+        "Phone": "801-878-3800",
+        "State": "Utah",
+        "Address": "11022 South 4000 West",
+        "Latitude": "40\u00b033'4\"N",
+        "Temple": "Oquirrh Mountain Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.50944444444444,
+          28.50722222222222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Windermere",
+        "Country": "United States",
+        "Postal Code": "34786-8347",
+        "Longitude": "81\u00b030'34\"W",
+        "Phone": "407-876-0022",
+        "State": "Florida",
+        "Address": "9000 Windy Ridge Road",
+        "Latitude": "28\u00b030'26\"N",
+        "Temple": "Orlando Florida Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.23694444444445,
+          43.038888888888884
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Palmyra",
+        "Country": "United States",
+        "Postal Code": "14522",
+        "Longitude": "77\u00b014'13\"W",
+        "Phone": "315-597-6001",
+        "State": "New York",
+        "Address": "2720 Temple Road",
+        "Latitude": "43\u00b02'20\"N",
+        "Temple": "Palmyra New York Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.57027777777778,
+          8.991388888888888
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Anc\u00f3n",
+        "Country": "Panama",
+        "Postal Code": "",
+        "Longitude": "79\u00b034'13\"W",
+        "Phone": "(507) 317-6900",
+        "State": "C\u00e1rdenas",
+        "Address": "Calle Rufina 3172",
+        "Latitude": "8\u00b059'29\"N",
+        "Temple": "Panama City Panama Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.55583333333334,
+          -17.53638888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Papeete",
+        "Country": "French Polynesia",
+        "Postal Code": "98716",
+        "Longitude": "149\u00b033'21\"W",
+        "Phone": "(689) 503-939",
+        "State": "Tahiti",
+        "Address": "Route de Fautaua?Titioro",
+        "Latitude": "17\u00b032'11\"S",
+        "Temple": "Papeete Tahiti Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1230555555555557,
+          48.81777777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Le Chesnay",
+        "Country": "France",
+        "Postal Code": "78150",
+        "Longitude": "2\u00b07'23\"E",
+        "Phone": "",
+        "State": "",
+        "Address": "46 Boulevard Saint-Antoine",
+        "Latitude": "48\u00b049'4\"N",
+        "Temple": "Paris France Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.74916666666667,
+          40.01916666666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Payson",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "111\u00b044'57\"W",
+        "Phone": "801-754-4949",
+        "State": "Utah",
+        "Address": "1494 South 930 West",
+        "Latitude": "40\u00b01'9\"N",
+        "Temple": "Payson Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.86972222222222,
+          -31.906666666666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Yokine",
+        "Country": "Australia",
+        "Postal Code": "6060",
+        "Longitude": "115\u00b052'11\"E",
+        "Phone": "(61) 08-9276-0000",
+        "State": "Western Australia",
+        "Address": "163-173 Wordsworth Avenue",
+        "Latitude": "31\u00b054'24\"S",
+        "Temple": "Perth Australia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16805555555555,
+          39.95916666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Philadelphia",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "75\u00b010'5\"W",
+        "Phone": "",
+        "State": "Pennsylvania",
+        "Address": "1739 Vine Street",
+        "Latitude": "39\u00b057'33\"N",
+        "Temple": "Philadelphia Pennsylvania Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.17222222222223,
+          33.69833333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Phoenix",
+        "Country": "United States",
+        "Postal Code": "85310",
+        "Longitude": "112\u00b010'20\"W",
+        "Phone": "623-474-9500",
+        "State": "Arizona",
+        "Address": "5220 West Pinnacle Peak Road",
+        "Latitude": "33\u00b041'54\"N",
+        "Temple": "Phoenix Arizona Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74222222222222,
+          45.42527777777777
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Lake Oswego",
+        "Country": "United States",
+        "Postal Code": "97035-8602",
+        "Longitude": "122\u00b044'32\"W",
+        "Phone": "503-639-7066",
+        "State": "Oregon",
+        "Address": "13600 SW Kruse Oaks Boulevard",
+        "Latitude": "45\u00b025'31\"N",
+        "Temple": "Portland Oregon Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.157777777777774,
+          -30.03388888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Porto Alegre",
+        "Country": "Brazil",
+        "Postal Code": "91320-240",
+        "Longitude": "51\u00b09'28\"W",
+        "Phone": "(55) 51-3338-0400",
+        "State": "Rio Grande do Sul",
+        "Address": "Rua General Salvador Pinheiro 50 Vila Jardim",
+        "Latitude": "30\u00b02'2\"S",
+        "Temple": "Porto Alegre Brazil Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.631111111111111,
+          53.67222222222222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Lancashire",
+        "Country": "United Kingdom",
+        "Postal Code": "PR6 7EQ",
+        "Longitude": "2\u00b037'52\"W",
+        "Phone": "(44) 1257-226100",
+        "State": "",
+        "Address": "Temple Way Hartwood Green Chorley",
+        "Latitude": "53\u00b040'20\"N",
+        "Temple": "Preston England Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.65916666666668,
+          40.2325
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Provo",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "111\u00b039'33\"W",
+        "Phone": "",
+        "State": "Utah",
+        "Address": "Corner of 100 S and University Ave",
+        "Latitude": "40\u00b013'57\"N",
+        "Temple": "Provo City Center Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.63972222222223,
+          40.26361111111111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Provo",
+        "Country": "United States",
+        "Postal Code": "84604-1766",
+        "Longitude": "111\u00b038'23\"W",
+        "Phone": "801-375-5775",
+        "State": "Utah",
+        "Address": "2200 Temple Hill Drive",
+        "Latitude": "40\u00b015'49\"N",
+        "Temple": "Provo Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5425,
+          14.846388888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Quetzaltenango",
+        "Country": "Guatemala",
+        "Postal Code": "09000",
+        "Longitude": "91\u00b032'33\"W",
+        "Phone": "(502) 7728-1603 ",
+        "State": "",
+        "Address": "9a Calle 4-03 Zona 9 Frente a Residenciales Los Cerezos 1",
+        "Latitude": "14\u00b050'47\"N",
+        "Temple": "Quetzaltenango Guatemala Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86138888888888,
+          35.731944444444444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Apex",
+        "Country": "United States",
+        "Postal Code": "27502",
+        "Longitude": "78\u00b051'41\"W",
+        "Phone": "919-362-4135",
+        "State": "North Carolina",
+        "Address": "574 Bryan Drive",
+        "Latitude": "35\u00b043'55\"N",
+        "Temple": "Raleigh North Carolina Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.91111111111111,
+          -8.036388888888888
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Recife",
+        "Country": "Brazil",
+        "Postal Code": "52060-380",
+        "Longitude": "34\u00b054'40\"W",
+        "Phone": "(55) 81-2129-4300",
+        "State": "Pernambuco",
+        "Address": "Rua Dr. Jos\u00e9 de G\u00f3es 284 Parnamirim",
+        "Latitude": "8\u00b02'11\"S",
+        "Temple": "Recife Brazil Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.14055555555557,
+          34.04888888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Redlands",
+        "Country": "United States",
+        "Postal Code": "92374",
+        "Longitude": "117\u00b08'26\"W",
+        "Phone": "909-389-7369",
+        "State": "California",
+        "Address": "1761 5th Avenue",
+        "Latitude": "34\u00b02'56\"N",
+        "Temple": "Redlands California Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.54166666666667,
+          50.420833333333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Regina",
+        "Country": "Canada",
+        "Postal Code": "S4V 2J6",
+        "Longitude": "104\u00b032'30\"W",
+        "Phone": "306-545-8194",
+        "State": "Saskatchewan",
+        "Address": "111 Wascana Gate North",
+        "Latitude": "50\u00b025'15\"N",
+        "Temple": "Regina Saskatchewan Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.89888888888889,
+          39.53444444444444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Reno",
+        "Country": "United States",
+        "Postal Code": "89523",
+        "Longitude": "119\u00b053'56\"W",
+        "Phone": "775-747-6688",
+        "State": "Nevada",
+        "Address": "2000 Beaumont Parkway",
+        "Latitude": "39\u00b032'4\"N",
+        "Temple": "Reno Nevada Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.77888888888889,
+          43.81083333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Rexburg",
+        "Country": "United States",
+        "Postal Code": "83440-5404",
+        "Longitude": "111\u00b046'44\"W",
+        "Phone": "208-656-0880",
+        "State": "Idaho",
+        "Address": "750 South 2nd East",
+        "Latitude": "43\u00b048'39\"N",
+        "Temple": "Rexburg Idaho Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.39972222222222,
+          -23.000833333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Rio de Janeiro",
+        "Country": "Brazil",
+        "Postal Code": "",
+        "Longitude": "43\u00b023'59\"W",
+        "Phone": "",
+        "State": "Rio de Janeiro",
+        "Address": "",
+        "Latitude": "23\u00b00'3\"S",
+        "Temple": "Rio de Janeiro Brazil Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.544722222222221,
+          41.97027777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Rome",
+        "Country": "Italy",
+        "Postal Code": "",
+        "Longitude": "12\u00b032'41\"E",
+        "Phone": "",
+        "State": "",
+        "Address": "Via di Settebagni 376",
+        "Latitude": "41\u00b058'13\"N",
+        "Temple": "Rome Italy Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.19388888888889,
+          38.635
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Rancho Cordova",
+        "Country": "United States",
+        "Postal Code": "95742",
+        "Longitude": "121\u00b011'38\"W",
+        "Phone": "916-357-5870",
+        "State": "California",
+        "Address": "2110 California Circle",
+        "Latitude": "38\u00b038'6\"N",
+        "Temple": "Sacramento California Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.57777777777777,
+          37.10027777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "St. George",
+        "Country": "United States",
+        "Postal Code": "84770-3699",
+        "Longitude": "113\u00b034'40\"W",
+        "Phone": "435-673-3533",
+        "State": "Utah",
+        "Address": "250 East 400 South",
+        "Latitude": "37\u00b06'1\"N",
+        "Temple": "St. George Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.46444444444445,
+          38.63944444444444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "St. Louis",
+        "Country": "United States",
+        "Postal Code": "63141-8620",
+        "Longitude": "90\u00b027'52\"W",
+        "Phone": "314-514-1122",
+        "State": "Missouri",
+        "Address": "12555 North Outer Forty Drive",
+        "Latitude": "38\u00b038'22\"N",
+        "Temple": "St. Louis Missouri Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.965,
+          44.980000000000004
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Oakdale",
+        "Country": "United States",
+        "Postal Code": "55128-4505",
+        "Longitude": "92\u00b057'54\"W",
+        "Phone": "651-748-5910",
+        "State": "Minnesota",
+        "Address": "2150 Hadley Avenue North",
+        "Latitude": "44\u00b058'48\"N",
+        "Temple": "St. Paul Minnesota Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89194444444445,
+          40.77027777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Salt Lake City",
+        "Country": "United States",
+        "Postal Code": "84150-0701",
+        "Longitude": "111\u00b053'31\"W",
+        "Phone": "801-240-2640",
+        "State": "Utah",
+        "Address": "50 West North Temple Street",
+        "Latitude": "40\u00b046'13\"N",
+        "Temple": "Salt Lake Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.48861111111111,
+          29.641388888888887
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "San Antonio",
+        "Country": "United States",
+        "Postal Code": "78258-6920",
+        "Longitude": "98\u00b029'19\"W",
+        "Phone": "210-538-0034",
+        "State": "Texas",
+        "Address": "20080 Stone Oak Parkway",
+        "Latitude": "29\u00b038'29\"N",
+        "Temple": "San Antonio Texas Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2286111111111,
+          32.86638888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "San Diego",
+        "Country": "United States",
+        "Postal Code": "92122-5000",
+        "Longitude": "117\u00b013'43\"W",
+        "Phone": "858-622-0991",
+        "State": "California",
+        "Address": "7474 Charmant Drive",
+        "Latitude": "32\u00b051'59\"N",
+        "Temple": "San Diego California Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18472222222222,
+          9.986388888888888
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Heredia",
+        "Country": "Costa Rica",
+        "Postal Code": "40702",
+        "Longitude": "84\u00b011'5\"W",
+        "Phone": "(506) 2293-6681 ext. 10",
+        "State": "",
+        "Address": "Del Hotel Marriott 600 Metros Oeste La Ribera de Bel\u00e9n",
+        "Latitude": "9\u00b059'11\"N",
+        "Temple": "San Jos\u00e9 Costa Rica Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24666666666667,
+          13.683333333333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Antiguo Cuscatl\u00e1n",
+        "Country": "El Salvador",
+        "Postal Code": "",
+        "Longitude": "89\u00b014'48\"W",
+        "Phone": "(503) 2520-2630",
+        "State": "La Libertad",
+        "Address": "Colonia San Benito Avenida El Espino entre Calle El Pedregal y Boulevard Diego de Holgu\u00edn",
+        "Latitude": "13\u00b041'0\"N",
+        "Temple": "San Salvador El Salvador Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60944444444443,
+          -33.43611111111111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Santiago",
+        "Country": "Chile",
+        "Postal Code": "664-1404",
+        "Longitude": "70\u00b036'34\"W",
+        "Phone": "(56) 2-340-5070",
+        "State": "Regi\u00f3n Metropolitana",
+        "Address": "Pocuro 1940 Providencia",
+        "Latitude": "33\u00b026'10\"S",
+        "Temple": "Santiago Chile Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.91694444444445,
+          18.46638888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Santo Domingo",
+        "Country": "Dominican Republic",
+        "Postal Code": "10106",
+        "Longitude": "69\u00b055'1\"W",
+        "Phone": "809-731-2000",
+        "State": "Distrito Nacional",
+        "Address": "Avenida Bolivar no. 825 Los Robles",
+        "Latitude": "18\u00b027'59\"N",
+        "Temple": "Santo Domingo Dominican Republic Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.722500000000004,
+          -23.584999999999997
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "S\u0103o Paulo",
+        "Country": "Brazil",
+        "Postal Code": "05512-900",
+        "Longitude": "46\u00b043'21\"W",
+        "Phone": "(55) 11-3723-7600",
+        "State": "S\u0103o Paulo",
+        "Address": "Avenida Professor Francisco Morato 2390 Caxingui",
+        "Latitude": "23\u00b035'6\"S",
+        "Temple": "S\u0103o Paulo Brazil Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.44555555555556,
+          43.02472222222222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Sapporo-shi",
+        "Country": "Japan",
+        "Postal Code": "",
+        "Longitude": "141\u00b026'44\"E",
+        "Phone": "",
+        "State": "Hokkaid?",
+        "Address": "1-620-5 Ohyachi-Nishi Atsubetsu-ku",
+        "Latitude": "43\u00b01'29\"N",
+        "Temple": "Sapporo Japan Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14083333333333,
+          47.58388888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Bellevue",
+        "Country": "United States",
+        "Postal Code": "98007-6453",
+        "Longitude": "122\u00b08'27\"W",
+        "Phone": "425-643-5144",
+        "State": "Washington",
+        "Address": "2808 148th Avenue SE",
+        "Latitude": "47\u00b035'2\"N",
+        "Temple": "Seattle Washington Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.93111111111112,
+          37.55888888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Seoul-si",
+        "Country": "South Korea",
+        "Postal Code": "120-836",
+        "Longitude": "126\u00b055'52\"E",
+        "Phone": "(82) 2-334-9100",
+        "State": "Seoul-teukbyeolsi",
+        "Address": "500-23 Changcheon-dong Seodaemun-gu",
+        "Latitude": "37\u00b033'32\"N",
+        "Temple": "Seoul Korea Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.11138888888888,
+          34.50222222222222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Snowflake",
+        "Country": "United States",
+        "Postal Code": "85937",
+        "Longitude": "110\u00b06'41\"W",
+        "Phone": "928-536-6626",
+        "State": "Arizona",
+        "Address": "1875 West Canyon Drive",
+        "Latitude": "34\u00b030'8\"N",
+        "Temple": "Snowflake Arizona Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.22055555555556,
+          47.62
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Spokane",
+        "Country": "United States",
+        "Postal Code": "99037",
+        "Longitude": "117\u00b013'14\"W",
+        "Phone": "509-926-2824",
+        "State": "Washington",
+        "Address": "13710 East Belle Terre Avenue",
+        "Latitude": "47\u00b037'12\"N",
+        "Temple": "Spokane Washington Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.93222222222222,
+          42.71194444444445
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Afton",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "110\u00b055'56\"W",
+        "Phone": "",
+        "State": "Wyoming",
+        "Address": "885 South Washington Street",
+        "Latitude": "42\u00b042'43\"N",
+        "Temple": "Star Valley Wyoming Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.109166666666667,
+          59.12444444444444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "V\u00e4sterhaninge",
+        "Country": "Sweden",
+        "Postal Code": "SE-13742",
+        "Longitude": "18\u00b06'33\"E",
+        "Phone": "(46) 8-500-655-00",
+        "State": "",
+        "Address": "Tempelv\u00e4gen 5",
+        "Latitude": "59\u00b07'28\"N",
+        "Temple": "Stockholm Sweden Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.43833333333333,
+          -18.119444444444444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Samabula",
+        "Country": "",
+        "Postal Code": "",
+        "Longitude": "178\u00b026'18\"E",
+        "Phone": "Fiji",
+        "State": " Suva",
+        "Address": "2-20 Lakeba Street",
+        "Latitude": "18\u00b07'10\"S",
+        "Temple": "Suva Fiji Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.05055555555558,
+          -33.775555555555556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Carlingford",
+        "Country": "Australia",
+        "Postal Code": "2118",
+        "Longitude": "151\u00b03'2\"E",
+        "Phone": "(61) 02-9841-5471",
+        "State": "New South Wales",
+        "Address": "756 Pennant Hills Road (Corner of Pennant Hills Road and Moseley Street)",
+        "Latitude": "33\u00b046'32\"S",
+        "Temple": "Sydney Australia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52777777777777,
+          25.03111111111111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Taipei",
+        "Country": "Taiwan",
+        "Postal Code": "106",
+        "Longitude": "121\u00b031'40\"E",
+        "Phone": "(886) 2-2351-0218",
+        "State": "",
+        "Address": "256 Ai Kuo East Road",
+        "Latitude": "25\u00b01'52\"N",
+        "Temple": "Taipei Taiwan Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.85583333333332,
+          22.254166666666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Ciudad Madero",
+        "Country": "Mexico",
+        "Postal Code": "89480",
+        "Longitude": "97\u00b051'21\"W",
+        "Phone": "(52) 833-216-9660",
+        "State": "Tamaulipas",
+        "Address": "Avenida Ej\u00e9rcito Mexicano no. 74 con 3A Avenida Colonia Lomas del Gallo",
+        "Latitude": "22\u00b015'15\"N",
+        "Temple": "Tampico Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.23777777777778,
+          14.051944444444445
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Comayag\u00fcela",
+        "Country": "",
+        "Postal Code": "Francisco Moraz\u00e1n",
+        "Longitude": "87\u00b014'16\"W",
+        "Phone": "Honduras",
+        "State": " M.D.C.",
+        "Address": "Residenciales Roble Oeste Boulevard Roble Oeste 3ra Calle Sur",
+        "Latitude": "14\u00b03'7\"N",
+        "Temple": "Tegucigalpa Honduras Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.502777777777778,
+          52.05444444444444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Zoetermeer",
+        "Country": "Netherlands",
+        "Postal Code": "NL-2722 CV",
+        "Longitude": "4\u00b030'10\"E",
+        "Phone": "(31) 79-343-5310",
+        "State": "",
+        "Address": "Osijlaan 2",
+        "Latitude": "52\u00b03'16\"N",
+        "Temple": "The Hague Netherlands Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.92944444444444,
+          32.48861111111111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Tijuana",
+        "Country": "Mexico",
+        "Postal Code": "",
+        "Longitude": "116\u00b055'46\"W",
+        "Phone": "",
+        "State": "Baja California",
+        "Address": "",
+        "Latitude": "32\u00b029'19\"N",
+        "Temple": "Tijuana Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72444444444446,
+          35.65277777777778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Tokyo",
+        "Country": "Japan",
+        "Postal Code": "106-0047",
+        "Longitude": "139\u00b043'28\"E",
+        "Phone": "(81) 3-3442-8171",
+        "State": "",
+        "Address": "5-8-10 Minami Azabu Minato-Ku",
+        "Latitude": "35\u00b039'10\"N",
+        "Temple": "Tokyo Japan Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.74583333333334,
+          43.744166666666665
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Brampton",
+        "Country": "Canada",
+        "Postal Code": "L6R 1A1",
+        "Longitude": "79\u00b044'45\"W",
+        "Phone": "905-799-1122",
+        "State": "Ontario",
+        "Address": "10060 Bramalea Road",
+        "Latitude": "43\u00b044'39\"N",
+        "Temple": "Toronto Ontario Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05833333333334,
+          -8.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Trujillo",
+        "Country": "Peru",
+        "Postal Code": "",
+        "Longitude": "79\u00b03'30\"W",
+        "Phone": "(51) 44-602-130",
+        "State": "La Libertad",
+        "Address": "Avenida Mansiche Kil\u00f3metro 35 Distrito Huanchaco",
+        "Latitude": "8\u00b06'0\"S",
+        "Temple": "Trujillo Peru Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.94916666666667,
+          32.33833333333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Tucson",
+        "Country": "United States",
+        "Postal Code": "",
+        "Longitude": "110\u00b056'57\"W",
+        "Phone": "",
+        "State": "Arizona",
+        "Address": "N Skyline Dr",
+        "Latitude": "32\u00b020'18\"N",
+        "Temple": "Tucson Arizona Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1588888888889,
+          16.76388888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Tuxtla Guti\u00e9rrez",
+        "Country": "Mexico",
+        "Postal Code": "29047",
+        "Longitude": "93\u00b09'32\"W",
+        "Phone": "(52) 961-615-8287",
+        "State": "Chiapas",
+        "Address": "Carretera a Chicoasen Chiapas Kil\u00f3metro 14 Esquina Paseo de la Roseta Fraccionamiento San Jos\u00e9 Chapultepec",
+        "Latitude": "16\u00b045'50\"N",
+        "Temple": "Tuxtla Guti\u00e9rrez Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4413888888889,
+          42.586666666666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Twin Falls",
+        "Country": "United States",
+        "Postal Code": "83301",
+        "Longitude": "114\u00b026'29\"W",
+        "Phone": "208-736-7070",
+        "State": "Idaho",
+        "Address": "1405 Eastland Drive North",
+        "Latitude": "42\u00b035'12\"N",
+        "Temple": "Twin Falls Idaho Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65777777777778,
+          49.151111111111106
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CityRe": "Langley",
+        "Country": "Canada",
+        "Postal Code": "V2Y 2A9",
+        "Longitude": "122\u00b039'28\"W",
+        "Phone": "604-513-5933",
+        "State": "British Columbia",
+        "Address": "20370 82nd Avenue",
+        "Latitude": "49\u00b09'4\"N",
+        "Temple": "Vancouver British Columbia Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1061111111111,
+          19.134166666666665
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Boca del R\u00edo",
+        "Country": "Mexico",
+        "Postal Code": "94290",
+        "Longitude": "96\u00b06'22\"W",
+        "Phone": "(52) 229-922-9621",
+        "State": "Veracruz",
+        "Address": "Avenida Ej\u00e9rcito Mexicano Esquina Michoac\u00e1n Colonia Lu\u00eds Echeverr\u00eda",
+        "Latitude": "19\u00b08'3\"N",
+        "Temple": "Veracruz Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.53722222222223,
+          40.45305555555556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Vernal",
+        "Country": "United States",
+        "Postal Code": "84078-2536",
+        "Longitude": "109\u00b032'14\"W",
+        "Phone": "435-789-3220",
+        "State": "Utah",
+        "Address": "170 South 400 West",
+        "Latitude": "40\u00b027'11\"N",
+        "Temple": "Vernal Utah Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.93722222222223,
+          17.981111111111108
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Villahermosa",
+        "Country": "Mexico",
+        "Postal Code": "86100",
+        "Longitude": "92\u00b056'14\"W",
+        "Phone": "(52) 993-352-2028",
+        "State": "Tabasco",
+        "Address": "Avenida 27 de Febrero no. 1717 Colonia Atasta de Serra",
+        "Latitude": "17\u00b058'52\"N",
+        "Temple": "Villahermosa Mexico Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06555555555555,
+          39.013888888888886
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Kensington",
+        "Country": "United States",
+        "Postal Code": "20895-3199",
+        "Longitude": "77\u00b03'56\"W",
+        "Phone": "301-588-0650",
+        "State": "Maryland",
+        "Address": "9900 Stoneybrook Drive",
+        "Latitude": "39\u00b00'50\"N",
+        "Temple": "Washington D.C. Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.19500000000001,
+          49.80027777777777
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Winnipeg",
+        "Country": "Canada",
+        "Postal Code": "",
+        "Longitude": "97\u00b011'42\"W",
+        "Phone": "",
+        "State": "Manitoba",
+        "Address": "",
+        "Latitude": "49\u00b048'1\"N",
+        "Temple": "Winnipeg Manitoba Temple",
+        "marker-size": "small"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.96611111111112,
+          41.33388888888889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "City": "Omaha",
+        "Country": "United States",
+        "Postal Code": "68112-2114",
+        "Longitude": "95\u00b057'58\"W",
+        "Phone": "402-453-3406",
+        "State": "Nebraska",
+        "Address": "8283 North 34th Street",
+        "Latitude": "41\u00b020'2\"N",
+        "Temple": "Winter Quarters Nebraska Temple",
+        "marker-size": "small"
+      }
+    }
+  ]
+}
