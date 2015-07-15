@@ -22,6 +22,7 @@ class TemplesCsv2Json(Csv2Json):
 
     def create_record(self, row):
         record = Csv2Json.create_record(self, row)
+        record['marker-size'] = 'small'
 
         temple = {
             'type': 'Feature',
