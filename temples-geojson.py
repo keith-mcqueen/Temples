@@ -15,7 +15,7 @@ def to_decimal_degrees(lat_or_lon):
     return sum(float(x) / (60.0 ** n) for n, x in enumerate(components)) * DIRECTION_FACTOR[direction]
 
 
-class TemplesCsv2Json(Csv2Json):
+class TemplesCsv2GeoJson(Csv2Json):
     def __init__(self):
         Csv2Json.__init__(self)
         self.pk_field = None
@@ -57,6 +57,6 @@ class TemplesCsv2Json(Csv2Json):
 
 
 if __name__ == '__main__':
-    c2j = TemplesCsv2Json()
+    c2j = TemplesCsv2GeoJson()
     c2j.load()
     c2j.export()

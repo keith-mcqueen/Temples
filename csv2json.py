@@ -6,6 +6,7 @@ import csv
 import sys
 import json
 import chardet
+from StringIO import StringIO
 
 import pypred
 
@@ -97,31 +98,37 @@ class Csv2Json:
         self.json_file_path = args.output
 
     def load(self):
+        csv_data = self.load_csv_data()
+
+        self.parse_csv_data(csv_data)
+
+    def load_csv_data(self):
         print 'Reading data from {}...'.format(self.csv_file_path)
+        return open(self.csv_file_path, 'r').read()
 
+    def parse_csv_data(self, csv_data):
         # get the character encoding
-        self.encoding = chardet.detect(open(self.csv_file_path, 'r').read())['encoding']
-        print self.encoding
+        # self.encoding = chardet.detect(csv_data)['encoding']
+        # print 'Detected encoding: {}'.format(self.encoding)
 
-        with open(self.csv_file_path) as f:
-            # process the first row as the header
-            self.process_header(f.readline().strip())
+        # use a CSV Dictionary Reader for the rest of file
+        # reader = csv.DictReader(csv_data.splitlines())
+        reader = csv.DictReader(StringIO(csv_data))
+        self.process_fieldnames(reader)
 
-            # use a CSV Dictionary Reader for the rest of file
-            reader = csv.DictReader(f, self.available_fields)
-            try:
-                for row in reader:
-                    if self.num_rows < 0 or self.num_rows > 0:
-                        if self.predicate is None or self.predicate.evaluate(row):
-                            self.num_rows -= 1
-                            self.add_record(row)
-                    else:
-                        break
-            except csv.Error as e:
-                sys.exit('file %s, line %d: %s' % (self.csv_file_path, reader.line_num, e))
+        try:
+            for row in reader:
+                if self.num_rows < 0 or self.num_rows > 0:
+                    if self.predicate is None or self.predicate.evaluate(row):
+                        self.num_rows -= 1
+                        self.add_record(row)
+                else:
+                    break
+        except csv.Error as e:
+            sys.exit('file %s, line %d: %s' % (self.csv_file_path, reader.line_num, e))
 
-    def process_header(self, line):
-        self.available_fields = line.split(',')
+    def process_fieldnames(self, reader):
+        self.available_fields = reader.fieldnames
         print 'Available fields: {}'.format(', '.join(self.available_fields))
 
         if self.pk_field and self.pk_field not in self.available_fields:
@@ -143,15 +150,15 @@ class Csv2Json:
 
     def add_record(self, row):
         record = self.create_record(row)
-        print record
+        # print record
 
         if self.pk_field is not None:
-            self.export_obj[row[self.pk_field]] = record
+            self.export_obj[record[self.pk_field]] = record
         else:
             self.export_obj.append(record)
 
     def create_record(self, row):
-        return {k: row[k] for k in self.export_fields}
+        return {unicode(k, self.encoding): unicode(row[k], self.encoding) for k in self.export_fields}
 
     def export(self):
         with open(self.json_file_path, 'w') as output:
